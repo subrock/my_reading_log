@@ -51,9 +51,10 @@ if (!mysql_query($query))
 <head>
 <title>My Reading Log</title>
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
 <script src="javascript.js"></script>
 </head>
-<body onload="load()">
+<body onload="sload()">
 
 
 Currently logged in as user ID <? echo $_COOKIE['MY_READING_LOG']; ?>. Also known as <? echo lookupreadername($_COOKIE['MY_READING_LOG']); ?>.
@@ -61,6 +62,15 @@ Currently logged in as user ID <? echo $_COOKIE['MY_READING_LOG']; ?>. Also know
 
 <Br><Br>
 <a href=logout.php>Logout</a>
+
+<?
+// Process messages and then clear them.
+if ($_COOKIE['message']) {
+?>
+<div class="shadow_a" id=testdiv align=center><font face=verdana color=blue size=-1><? echo $_COOKIE['message']; ?></div>
+<? }
+setcookie("message","Lets see what happens.",time()-3600);
+?>
 
 </body>
 </html>

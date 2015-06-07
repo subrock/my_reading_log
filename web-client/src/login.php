@@ -2,6 +2,11 @@
 
 <? include 'functions.php'; ?>
 <?
+if ($_COOKIE['MY_READING_LOG']) {
+        header('Location: ./');
+        //echo "<a href=login.php>Login</a>";
+        exit;
+}
 
 // Database connection information.
 $db_host="localhost";
@@ -25,12 +30,14 @@ mysql_connect($db_host,$db_user,$db_password);
                 $reader_id=mysql_result($result,0,"reader_id");
                 setAuthenticationCookie($reader_id);
                 //echo "Authentication sucessful.<Br><Br> <a href=./>Continue...</a>";
+		setcookie("message","Authentication is successful.", time() + 30, '/');
                 header('Location: ./');
                 exit;
 	} else {
-		echo "Login failed. <Br><Br><a href=login.php>Try again.</a>";
+		//echo "Login failed. <Br><Br><a href=login.php>Try again.</a>";
+		setcookie("message","Authentication has failed.", time() + 30, '/');
     		//die('Could not query:' . mysql_error());
-                //header('Location: ./');
+                header('Location: ./login.php');
 		exit;
 	}
 }
@@ -42,9 +49,11 @@ mysql_connect($db_host,$db_user,$db_password);
 <head>
 <title>My Reading Log - Login</title>
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
 <script src="javascript.js"></script>
 </head>
-<body>
+<body text=#333300>
+
 
 
 <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST">
@@ -57,4 +66,12 @@ Password<br>
 <input type=submit value="Continue"><Br><Br>
 <a href=register.php>Or register here.</a>
 </form>
+<?
+// Process messages and then clear them.
+if ($_COOKIE['message']) {
+?>
+<div class="shadow_a" id=testdiv align=center><font face=verdana color=blue size=-1><? echo $_COOKIE['message']; ?></div>
+<? }
+setcookie("message","Lets see what happens.",time()-3600);
+?>
 

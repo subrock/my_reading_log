@@ -34,7 +34,7 @@ CREATE TABLE `ReaderTable` (
   `reader_name` varchar(30) NOT NULL,
   `reader_password` varchar(30) NOT NULL,
   `reader_email` varchar(50) DEFAULT NULL,
-  PRIMARY KEY (`team_id`)
+  PRIMARY KEY (`reader_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -43,6 +43,7 @@ DROP TABLE IF EXISTS `EntryTable`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `EntryTable` (
   `entry_id` mediumint(5) NOT NULL AUTO_INCREMENT,
+  `entry_reader_id` smallint(8) DEFAULT NULL,
   `entry_date` varchar(250) DEFAULT NULL,
   `entry_title` varchar(250) DEFAULT NULL,
   `entry_author` varchar(250) DEFAULT NULL,
