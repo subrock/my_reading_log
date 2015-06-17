@@ -45,10 +45,24 @@ background-color:#EAF2D3;
 #input[type="text"] {width: 100%;}
 
 tr:hover {
-        background: #B0B0B0 !important;
+        background: silver !important;
 }
 
 body {
 	font-family: 'Poiret One', cursive;
 }
 
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}
+
+@page { size: landscape; }
+
+#contextMenu {
+  position: absolute;
+  display:none;
+}

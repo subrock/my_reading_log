@@ -59,12 +59,11 @@ mysql_connect($db_host,$db_user,$db_password);
 <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST">
 Enter your name and password or register a new account.<Br><Br>
 Name<Br>
-<input type=text name=reader_name size=30><Br><Br>
+<input type=text name=reader_name size=30><Br>
 Password<br>
-<input type=text name=reader_password size=30><Br><Br>
+<input type=text name=reader_password size=30><Br>
 <Br>
-<input type=submit value="Continue"><Br><Br>
-<a href=register.php>Or register here.</a>
+<input type=submit value="Continue"> <a href=register.php>Or register here.</a>
 </form>
 <?
 // Process messages and then clear them.

@@ -1,6 +1,6 @@
 
 
-<? include functions.php; ?>
+<? include 'functions.php'; ?>
 <?
 $db_host="localhost";
 $db_user="root";
@@ -14,7 +14,7 @@ if ($_POST['reader_name'] || $_POST['reader_password']) {
 	mysql_connect($db_host,$db_user,$db_password);
 	@mysql_select_db($db_name) or die( "Unable to select database");
         $query="select * from ReaderTable where reader_name=".$_POST['reader_name'];
-	echo $query;
+	//echo $query;
         $result=mysql_query($query);
         if ($result) {
 		setcookie("message","Reader with that name already exists.", time() + 30, '/');
@@ -26,11 +26,14 @@ if ($_POST['reader_name'] || $_POST['reader_password']) {
                 $query="INSERT INTO ReaderTable VALUES (".$tmpsql.")";
 		//echo $query;
                 $result=mysql_query($query);
+		$rid=mysql_result($result,0,"reader_id");
+		echo $rid;	
 		if (!$result) {
     			die('Could not query:' . mysql_error());
 		}
 		//echo "Registration is complete.<Br><Br><a href=./login.php>Continue...</a>";
 		setcookie("message","Registration is complete.", time() + 30, '/');
+		setAuthenticationCookie($rid);
 		header('Location: ./');
 		exit;
         }
