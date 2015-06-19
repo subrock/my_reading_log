@@ -13,6 +13,99 @@ if (!$_COOKIE['MY_READING_LOG']) {
 
 $aso=$_GET['aso'];
 
+// When was the log started?
+function get_first_date()
+{
+        mysql_connect("localhost","root","testme");
+        @mysql_select_db("MY_READING_LOG") or die( "Unable to select database");
+        $query="select * from EntryTable order by entry_date limit 1";
+        $result=mysql_query($query);
+        $start=mysql_result($result,0,"entry_date");
+        return $start;
+}
+
+// Total number of pages of a specific record. 
+function totalPages($record)
+{
+        mysql_connect("localhost","root","testme");
+        @mysql_select_db("MY_READING_LOG") or die( "Unable to select database");
+        $query="select * from EntryTable where entry_id=".$record;
+        $result=mysql_query($query);
+        $start=mysql_result($result,0,"entry_start");
+        $end=mysql_result($result,0,"entry_end");
+        $rtn = ($end - $start)+1;
+        return $rtn;
+ }
+
+// Add up all the total_pages and you get_total_page read.
+function total_pages_read()
+{
+        mysql_connect("localhost","root","testme");
+        @mysql_select_db("MY_READING_LOG") or die( "Unable to select database");
+        $query="select * from EntryTable";
+        $result=mysql_query($query);
+$num=mysql_numrows($result);
+//mysql_close();
+$i=0;
+while ($i < $num) {
+$total_pages_read=$total_pages_read + totalPages(mysql_result($result,$i,"entry_id"));
+$i++;
+
+}
+
+        return $total_pages_read;
+ }
+
+// Total minutes needed to read a page.
+function total_minutes_page($total_minutes_read,$total_pages_read)
+{
+        $total_minutes_page=($total_minutes_read / $total_pages_read);
+        $total_minutes_page=number_format($total_minutes_page, 2, '.', '');
+        return $total_minutes_page;
+}
+
+//Total of a paticular column.
+function total_cols($column)
+{
+        mysql_connect("localhost","root","testme");
+        @mysql_select_db("MY_READING_LOG") or die( "Unable to select database");
+        $query="select DISTINCT ".$column." from EntryTable where entry_complete <> ''";
+        $result=mysql_query($query);
+        $num=mysql_numrows($result);
+        return $num;
+}
+
+// Convert house to minutes.
+function convertToHoursMins($time, $format = '%d:%d') {
+    settype($time, 'integer');
+    if ($time < 1) {
+        return;
+    }
+    $hours = floor($time / 60);
+    $minutes = ($time % 60);
+    return sprintf($format, $hours, $minutes);
+}
+
+// total minutes read.
+function total_minutes_read()
+{
+        mysql_connect("localhost","root","testme");
+        @mysql_select_db("reading_db") or die( "Unable to select database");
+        $query="select * from entry_table";
+        $result=mysql_query($query);
+$num=mysql_numrows($result);
+//mysql_close();
+$i=0;
+while ($i < $num) {
+$total_minutes_read=$total_minutes_read + mysql_result($result,$i,"Minutes");
+$i++;
+
+}
+
+        return $total_minutes_read;
+ }
+
+
 
 // Get reader's name
 function get_reader_name($id) {
@@ -110,7 +203,7 @@ while (list($key, $value) = each($v1)) {
 }
    echo "</tr>";
 }
-echo "</table>";
+echo "</table><Br>";
 
 if ($_GET['debug'] == "on") {
 echo "<Br><Br>Debug<br>";
@@ -123,10 +216,21 @@ echo "<Br>";
 }
 }
 
-echo "<Br>";
+echo "<font size=2>";
+echo "<b>Total Reading Details:</b><br>";
+echo "The Student started this reading log on <b>".get_first_date()."</b>.<Br>";
+echo "The Student has read a total of <b>".total_pages_read()."</b> page(s).<Br>";
+echo "The Student has read for a total of <b>".convertToHoursMins(total_minutes_read(), '%02d hours %02d minutes')."</b>. (That's a total of ".total_minutes_read()." minutes.)<Br>";
+echo "This translates into <b>".total_minutes_page(total_minutes_read(),total_pages_read())."</b> minutes per page.<Br>";
+echo "The Student has completed reading from a total of <b>".total_cols("entry_title")."</b> book(s).<Br>";
+echo "The Student has completed reading from <B>".total_cols("entry_author")."</b> different author(s).<Br>";
+
+
 ?>
 
 <!-- Navigation Bar. Print is disabled. -->
+<Br>
+<input type=button class='no-print' value="New Entry" onClick="window.location='forms/'">
 <input type=button class='no-print' value="Print" onClick="window.print();">
 <input type=button class='no-print' value="Forms" onClick="window.location='forms/'">
 <input type=button class='no-print' value="Backup DB" onClick="window.location='backup.php'">
@@ -134,6 +238,11 @@ echo "<Br>";
 <input type=button class='no-print' value="Logout" onClick="window.location='logout.php'">
 
 <?
+
+
+
+
+
 // Process messages and then clear them.
 if ($_COOKIE['message']) {
 ?>
