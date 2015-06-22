@@ -14,6 +14,8 @@ $db_name="MY_READING_LOG";
 $table_name="EntryTable";
 $rid=$_COOKIE['MY_READING_LOG'];
 $rid=1;
+$rid=$_GET['id'];
+
 $xml = "<?xml version='1.0' standalone='yes'?>";
 $xml = $xml . "<entry reader_id='$rid'>";
         mysql_connect($db_host,$db_user,$db_password);
