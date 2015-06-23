@@ -1,0 +1,299 @@
+
+15:06:21 11:46:39 Starting registration script.
+15:06:21 11:46:58 Starting registration script.
+15:06:21 11:48:18 Starting registration script.
+15:06:21 11:49:38 Starting registration script.
+15:06:21 11:50:18 Starting registration script.
+15:06:21 11:56:08 Starting registration script.
+15:06:21 11:56:08 POST Request has been made.
+15:06:21 11:56:08 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:21 11:56:08 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:21 11:56:08 Signiture keys match.
+15:06:21 11:56:08 SELECT * FROM ReaderTable WHERE reader_name = ''
+15:06:21 11:56:08 User does not exist.
+15:06:21 11:56:08 INSERT INTO ReaderTable (reader_name,reader_password,reader_email) VALUES ('','','')
+15:06:21 11:56:09 16
+15:06:21 11:56:09 
+15:06:21 11:56:09 
+15:06:21 11:56:09 
+15:06:21 11:56:09 User registration sucessful. Writting success XML.
+15:06:21 11:56:09 End.
+
+15:06:21 12:05:00 Starting registration script.
+15:06:21 12:05:00 POST Request has been made.
+15:06:21 12:05:00 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:21 12:05:00 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:21 12:05:00 Signiture keys match.
+15:06:21 12:05:00 SELECT * FROM ReaderTable WHERE reader_name = ''
+15:06:21 12:05:00 User registration faild. User already exists. Writting failure XML.
+15:06:21 12:05:00 End.
+
+15:06:21 12:05:03 Starting registration script.
+15:06:21 12:05:03 POST Request has been made.
+15:06:21 12:05:03 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:21 12:05:03 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:21 12:05:03 Signiture keys match.
+15:06:21 12:05:03 SELECT * FROM ReaderTable WHERE reader_name = ''
+15:06:21 12:05:03 User registration faild. User already exists. Writting failure XML.
+15:06:21 12:05:03 End.
+
+15:06:21 12:08:31 Starting registration script.
+15:06:21 12:08:31 POST Request has been made.
+15:06:21 12:08:31 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:21 12:08:31 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:21 12:08:31 Signiture keys match.
+15:06:21 12:08:31 SELECT * FROM ReaderTable WHERE reader_name = ''
+15:06:21 12:08:31 User registration faild. User already exists. Writting failure XML.
+15:06:21 12:08:31 End.
+
+15:06:21 12:45:19 Starting registration script.
+15:06:21 12:45:19 POST Request has been made.
+15:06:21 12:45:19 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:21 12:45:19 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:21 12:45:19 Signiture keys match.
+15:06:21 12:45:19 SELECT * FROM ReaderTable WHERE reader_name = ''
+15:06:21 12:45:19 User registration faild. User already exists. Writting failure XML.
+15:06:21 12:45:19 End.
+
+15:06:21 01:22:33 Starting registration script.
+15:06:21 01:22:33 POST Request has been made.
+15:06:21 01:22:33 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:21 01:22:33 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:21 01:22:33 Signiture keys match.
+15:06:21 01:22:33 SELECT * FROM ReaderTable WHERE reader_name = 'Test6'
+15:06:21 01:22:33 User does not exist.
+15:06:21 01:22:33 INSERT INTO ReaderTable (reader_name,reader_password,reader_email) VALUES ('Test6','','')
+15:06:21 01:22:33 17
+15:06:21 01:22:33 Test6
+15:06:21 01:22:33 
+15:06:21 01:22:33 
+15:06:21 01:22:33 User registration sucessful. Writting success XML.
+15:06:21 01:22:33 End.
+
+15:06:21 03:12:57 Starting registration script.
+15:06:21 03:12:57 POST Request has been made.
+15:06:21 03:12:57 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:21 03:12:57 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:21 03:12:57 Signiture keys match.
+15:06:21 03:12:57 SELECT * FROM ReaderTable WHERE reader_name = 'Test'
+15:06:21 03:12:57 User registration faild. User already exists. Writting failure XML.
+15:06:21 03:12:57 End.
+
+15:06:21 07:19:40 Starting registration script.
+15:06:21 07:19:40 POST Request has been made.
+15:06:21 07:19:40 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:21 07:19:40 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:21 07:19:40 Signiture keys match.
+15:06:21 07:19:40 SELECT * FROM ReaderTable WHERE reader_name = 'Test'
+15:06:21 07:19:40 User registration faild. User already exists. Writting failure XML.
+15:06:21 07:19:40 End.
+
+15:06:21 07:19:47 Starting registration script.
+15:06:21 07:19:47 POST Request has been made.
+15:06:21 07:19:47 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:21 07:19:47 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:21 07:19:47 Signiture keys match.
+15:06:21 07:19:47 SELECT * FROM ReaderTable WHERE reader_name = 'Test99'
+15:06:21 07:19:47 User does not exist.
+15:06:21 07:19:47 INSERT INTO ReaderTable (reader_name,reader_password,reader_email) VALUES ('Test99','','')
+15:06:21 07:19:47 18
+15:06:21 07:19:47 Test99
+15:06:21 07:19:47 
+15:06:21 07:19:47 
+15:06:21 07:19:47 User registration sucessful. Writting success XML.
+15:06:21 07:19:47 End.
+
+15:06:22 01:20:43 Starting registration script.
+15:06:22 01:20:43 POST Request has been made.
+15:06:22 01:20:43 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:22 01:20:43 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:22 01:20:43 Signiture keys match.
+15:06:22 01:20:43 SELECT * FROM ReaderTable WHERE reader_name = 'Jerome Summer Reading Log'
+15:06:22 01:20:43 User does not exist.
+15:06:22 01:20:43 INSERT INTO ReaderTable (reader_name,reader_password,reader_email) VALUES ('Jerome Summer Reading Log','testme','jeromesch@outlook.com')
+15:06:22 01:20:43 19
+15:06:22 01:20:43 Jerome Summer Reading Log
+15:06:22 01:20:43 testme
+15:06:22 01:20:43 jeromesch@outlook.com
+15:06:22 01:20:43 User registration sucessful. Writting success XML.
+15:06:22 01:20:44 End.
+
+15:06:22 01:39:14 Starting registration script.
+15:06:22 01:39:14 POST Request has been made.
+15:06:22 01:39:14 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:22 01:39:14 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:22 01:39:14 Signiture keys match.
+15:06:22 01:39:14 SELECT * FROM ReaderTable WHERE reader_name = 'Karl's Reading Log'
+15:06:22 01:39:14 User does not exist.
+15:06:22 01:39:14 INSERT INTO ReaderTable (reader_name,reader_password,reader_email) VALUES ('Karl's Reading Log','testme','subrock@gmail.com')
+15:06:22 01:39:14 0
+15:06:22 01:39:14 Karl's Reading Log
+15:06:22 01:39:14 testme
+15:06:22 01:39:14 subrock@gmail.com
+15:06:22 01:39:14 User registration sucessful. Writting success XML.
+15:06:22 01:39:14 End.
+
+15:06:22 01:40:19 Starting registration script.
+15:06:22 01:40:19 POST Request has been made.
+15:06:22 01:40:19 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:22 01:40:19 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:22 01:40:19 Signiture keys match.
+15:06:22 01:40:19 SELECT * FROM ReaderTable WHERE reader_name = 'Karl Reading Log'
+15:06:22 01:40:19 User does not exist.
+15:06:22 01:40:19 INSERT INTO ReaderTable (reader_name,reader_password,reader_email) VALUES ('Karl Reading Log','testme','subrock@gmail.com')
+15:06:22 01:40:19 20
+15:06:22 01:40:19 Karl Reading Log
+15:06:22 01:40:19 testme
+15:06:22 01:40:19 subrock@gmail.com
+15:06:22 01:40:19 User registration sucessful. Writting success XML.
+15:06:22 01:40:19 End.
+
+15:06:22 04:15:47 Starting registration script.
+15:06:22 04:15:47 POST Request has been made.
+15:06:22 04:15:47 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:22 04:15:47 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:22 04:15:47 Signiture keys match.
+15:06:22 04:15:47 SELECT * FROM ReaderTable WHERE reader_name = 'Karl Reading Log'
+15:06:22 04:15:47 User registration faild. User already exists. Writting failure XML.
+15:06:22 04:15:47 End.
+
+15:06:22 04:16:15 Starting registration script.
+15:06:22 04:16:15 POST Request has been made.
+15:06:22 04:16:15 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:22 04:16:15 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:22 04:16:15 Signiture keys match.
+15:06:22 04:16:15 SELECT * FROM ReaderTable WHERE reader_name = 'Karl Reading Log'
+15:06:22 04:16:15 User registration faild. User already exists. Writting failure XML.
+15:06:22 04:16:15 End.
+
+15:06:22 04:20:38 Starting registration script.
+15:06:22 04:20:38 POST Request has been made.
+15:06:22 04:20:38 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:22 04:20:38 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:22 04:20:38 Signiture keys match.
+15:06:22 04:20:38 SELECT * FROM ReaderTable WHERE reader_name = 'Karl Reading Log'
+15:06:22 04:20:38 User registration faild. User already exists. Writting failure XML.
+15:06:22 04:20:38 End.
+
+15:06:22 04:21:03 Starting registration script.
+15:06:22 04:21:03 POST Request has been made.
+15:06:22 04:21:03 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:22 04:21:03 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:22 04:21:03 Signiture keys match.
+15:06:22 04:21:03 SELECT * FROM ReaderTable WHERE reader_name = 'Bobs Reading Log'
+15:06:22 04:21:03 User does not exist.
+15:06:22 04:21:03 INSERT INTO ReaderTable (reader_name,reader_password,reader_email) VALUES ('Bobs Reading Log','testme','bob@subrock.com')
+15:06:22 04:21:03 21
+15:06:22 04:21:03 Bobs Reading Log
+15:06:22 04:21:03 testme
+15:06:22 04:21:03 bob@subrock.com
+15:06:22 04:21:03 User registration sucessful. Writting success XML.
+15:06:22 04:21:03 End.
+
+15:06:22 04:24:05 Starting registration script.
+15:06:22 04:24:05 POST Request has been made.
+15:06:22 04:24:05 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:22 04:24:05 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:22 04:24:05 Signiture keys match.
+15:06:22 04:24:05 SELECT * FROM ReaderTable WHERE reader_name = 'Karl Reading Log'
+15:06:22 04:24:05 User registration faild. User already exists. Writting failure XML.
+15:06:22 04:24:05 End.
+
+15:06:22 04:35:11 Starting registration script.
+15:06:22 04:35:11 POST Request has been made.
+15:06:22 04:35:11 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:22 04:35:11 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:22 04:35:11 Signiture keys match.
+15:06:22 04:35:11 SELECT * FROM ReaderTable WHERE reader_name = 'My Reading Log'
+15:06:22 04:35:11 User does not exist.
+15:06:22 04:35:11 INSERT INTO ReaderTable (reader_name,reader_password,reader_email) VALUES ('My Reading Log','password','')
+15:06:22 04:35:11 22
+15:06:22 04:35:11 My Reading Log
+15:06:22 04:35:11 password
+15:06:22 04:35:11 
+15:06:22 04:35:11 User registration sucessful. Writting success XML.
+15:06:22 04:35:11 End.
+
+15:06:22 04:35:29 Starting registration script.
+15:06:22 04:35:29 POST Request has been made.
+15:06:22 04:35:29 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:22 04:35:29 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:22 04:35:29 Signiture keys match.
+15:06:22 04:35:29 SELECT * FROM ReaderTable WHERE reader_name = 'My Reading Log'
+15:06:22 04:35:29 User registration faild. User already exists. Writting failure XML.
+15:06:22 04:35:29 End.
+
+15:06:22 04:49:28 Starting registration script.
+15:06:22 04:49:28 POST Request has been made.
+15:06:22 04:49:28 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:22 04:49:28 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:22 04:49:28 Signiture keys match.
+15:06:22 04:49:28 SELECT * FROM ReaderTable WHERE reader_name = 'My Reading Log'
+15:06:22 04:49:28 User registration faild. User already exists. Writting failure XML.
+15:06:22 04:49:28 End.
+
+15:06:22 05:04:10 Starting registration script.
+15:06:22 05:04:10 POST Request has been made.
+15:06:22 05:04:10 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:22 05:04:10 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:22 05:04:10 Signiture keys match.
+15:06:22 05:04:10 SELECT * FROM ReaderTable WHERE reader_name = 'My Reading Log'
+15:06:22 05:04:10 User registration faild. User already exists. Writting failure XML.
+15:06:22 05:04:10 End.
+
+15:06:22 05:04:54 Starting registration script.
+15:06:22 05:04:54 POST Request has been made.
+15:06:22 05:04:54 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:22 05:04:54 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:22 05:04:54 Signiture keys match.
+15:06:22 05:04:54 SELECT * FROM ReaderTable WHERE reader_name = 'My Reading Log'
+15:06:22 05:04:54 User registration faild. User already exists. Writting failure XML.
+15:06:22 05:04:54 End.
+
+15:06:22 10:20:43 Starting registration script.
+15:06:22 10:20:43 POST Request has been made.
+15:06:22 10:20:43 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:22 10:20:43 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:22 10:20:43 Signiture keys match.
+15:06:22 10:20:43 SELECT * FROM ReaderTable WHERE reader_name = 'LogTest1'
+15:06:22 10:20:43 User does not exist.
+15:06:22 10:20:43 INSERT INTO ReaderTable (reader_name,reader_password,reader_email) VALUES ('LogTest1','testme','')
+15:06:22 10:20:44 23
+15:06:22 10:20:44 LogTest1
+15:06:22 10:20:44 testme
+15:06:22 10:20:44 
+15:06:22 10:20:44 User registration sucessful. Writting success XML.
+15:06:22 10:20:44 End.
+
+15:06:22 11:49:02 Starting registration script.
+15:06:22 11:49:02 POST Request has been made.
+15:06:22 11:49:02 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:22 11:49:02 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:22 11:49:02 Signiture keys match.
+15:06:22 11:49:02 SELECT * FROM ReaderTable WHERE reader_name = 'My Reading Log'
+15:06:22 11:49:02 User registration faild. User already exists. Writting failure XML.
+15:06:22 11:49:02 End.
