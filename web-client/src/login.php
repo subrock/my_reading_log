@@ -58,24 +58,27 @@ $context = stream_context_create($opts);
 <script src=jquery.min.js></script>
 <script src="javascript.js"></script>
 </head>
-<body>
+<body  style="margin:10;padding:10" alink=silver vlink=white link=white bgcolor=#303030>
 <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST">
-Enter your name, password to authenticate.<Br><Br>
+<table id=display_table cellspacing=0 cellpadding=25 bgcolor=white><th>
+Enter your special secret to authenticate.</th>
+<tr><td>
 
-Name<Br>
-<input type=text name=reader_name size=30 autocomplete="off"><Br>
+Name of your reading log<Br>
+<input type=text name=reader_name size=30 autocomplete="off" value="Student Reading Log"><Br>
 
-Password<br>
-<input type=password name=reader_password size=30 autocomplete="off"><Br><br>
+Password of your choosing<br>
+<input type=text name=reader_password size=30 autocomplete="off" value="password"><Br>
 
-<input type=submit value="Authenticate"> <a href=register.php>Or register here.</a>
+</td></tr></table>
+<Br><input class=btn type=submit value="Authenticate"> <a href=register.php>Or register here.</a>
 </form>
 
 <?
 // Process messages and then clear them.
 if ($_COOKIE['message']) {
 ?>
-<div class="shadow_a" id=testdiv align=center><font face=verdana color=blue size=-1><? echo $_COOKIE['message']; ?></div>
+<div class="shadow_a" id=testdiv align=center><font face=verdana color=red size=2><b><? echo $_COOKIE['message']; ?></b></div>
 <? }
 setcookie("message","Lets see what happens.",time()-3600);
 ?>
