@@ -10,3 +10,4 @@ TODO:
 * Add FireTV and Roku support.
 * Centralize DB connection information at the api. 
 * Test remote db. 
+* clean up init.sql formatting.
