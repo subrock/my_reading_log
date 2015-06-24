@@ -31,12 +31,14 @@ writeToLog("POST Request has been made.");
 
 // Get signed key passed. Compare it to the one in key/.
 $myfile = fopen("../key/key.pvt", "r") or die("Unable to open file!");
-$api_key=fgets($myfile);
+$api_key=trim(fgets($myfile));
+$api_sign=$_POST['signiture'];
+$reader_id=$_POST['rid'];
 fclose($myfile);
+
 writeToLog("Pulling private key.");
 
-$api_sign=$_POST['signiture'];
-if (strcmp($api_sign, $apikey) !== 0) {
+if (strcmp($api_sign, $api_key) == 0) {
 	writeToLog("Signiture keys match.");
 	// Database connection information.
 	$db_host="localhost";
@@ -44,32 +46,26 @@ if (strcmp($api_sign, $apikey) !== 0) {
 	$db_password="testme";
 	$db_name="MY_READING_LOG";
 
-	$reader_id=$_POST['rid'];
 	writeToLog("UID $reader_id");
 
 	$xml = "<?xml version='1.0' standalone='yes'?>";
 	$xml = $xml."<entry reader_id='$reader_id'>";
-
         mysql_connect("localhost","root","testme");
         @mysql_select_db("MY_READING_LOG") or die( "Unable to select database");
         $query="select * from EntryTable where entry_reader_id=$reader_id";
         $result=mysql_query($query);
-$num=mysql_numrows($result);
-$i=0;
-while ($i < $num) {
-$entry_start=mysql_result($result,$i,"entry_start");
-$entry_end=mysql_result($result,$i,"entry_end");
-$total_pages_read=$total_pages_read + totalPages($entry_start,$entry_end);
-$i++;
-
-}
-
-	
-		$xml = $xml . "<pages>".$total_pages_read."</pages>";
+	$num=mysql_numrows($result);
+	$i=0;
+	while ($i < $num) {
+		$entry_start=mysql_result($result,$i,"entry_start");
+		$entry_end=mysql_result($result,$i,"entry_end");
+		$total_pages_read=$total_pages_read + totalPages($entry_start,$entry_end);
+		$i++;
+	}
+	$xml = $xml . "<pages>".$total_pages_read."</pages>";
 	$xml = $xml . "</entry>";
-	writeToLog($xml);
 	echo $xml;
-	writeToLog("End TotalPagesRead.\n\n");
+	writeToLog("End TotalPagesRead.\n$xml\n\n");
 	exit;
 } else {
 	// Key compare failed. Redirect to an error page. 

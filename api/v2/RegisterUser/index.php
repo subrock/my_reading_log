@@ -23,13 +23,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 writeToLog("POST Request has been made.");
 // Get signed key passed. Compare it to the one in key/.
 $myfile = fopen("../key/key.pvt", "r") or die("Unable to open file!");
-$api_key=fgets($myfile);
+$api_key=trim(fgets($myfile));
+$api_sign=$_POST['signiture'];
 fclose($myfile);
 
-$api_sign=$_POST['signiture'];
-writeToLog($api_sign);
-writeToLog($api_key);
-if (strcmp($api_sign, $apikey) !== 0) {
+if (strcmp($api_sign, $api_key) == 0) {
 	writeToLog("Signiture keys match.");
 	// Database connection information.
 	$db_host="localhost";
@@ -43,21 +41,15 @@ if (strcmp($api_sign, $apikey) !== 0) {
 	mysql_connect($db_host,$db_user,$db_password);
 	@mysql_select_db($db_name) or die( "Unable to select database");
         $query="SELECT * FROM ReaderTable WHERE reader_name = '$reg_user'";
-	writeToLog($query);
         $result=mysql_query($query);
 	$num_rows = mysql_num_rows($result);
 	$reader_id=mysql_result($result,"reader_id");
 	if ($num_rows < 1) {
-		writeToLog("User does not exist.");
+		writeToLog("User does not exist. Creating a new account.");
         	$query="INSERT INTO ReaderTable (reader_name,reader_password,reader_email) VALUES ('$reg_user','$reg_pass','$reg_mail')" ;
-		writeToLog($query);
         	$result=mysql_query($query);
         	$reader_id=mysql_result($result,"reader_id");
 		$reader_id = mysql_insert_id();
-		writeToLog($reader_id);
-		writeToLog($reg_user);
-		writeToLog($reg_pass);
-		writeToLog($reg_mail);
 		// Build XML for a Successful response.
 		writeToLog("User registration sucessful. Writting success XML.");
 		header("Content-type: text/xml");
@@ -69,7 +61,7 @@ if (strcmp($api_sign, $apikey) !== 0) {
 		$xml = $xml . "<email>".$reg_mail."</email>";
 		$xml = $xml . "</registration>";
 		echo $xml;
-		writeToLog("End.\n");
+		writeToLog("End RegisterUser.\n$xml\n\n");
                 exit;
         } else {
                 // Build XML for a Failure response.
@@ -84,7 +76,8 @@ if (strcmp($api_sign, $apikey) !== 0) {
                 $xml = $xml . "<email></email>";
                 $xml = $xml . "</registration>";
                 echo $xml;
-		writeToLog("End.\n");
+		writeToLog("End RegisterUser.\n$xml\n\n");
+                exit;
                 exit;
         } // End response
 } else {
@@ -97,4 +90,3 @@ setcookie("message","You can not make requests using a web browser.", time() + 3
 header('Location: ../error.php');
 
 ?>
-Error has occured. You can not make a request from a web browser.

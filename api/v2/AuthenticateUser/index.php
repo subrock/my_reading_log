@@ -20,11 +20,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 writeToLog("POST Request has been made.");
 // Get signed key passed. Compare it to the one in key/.
 $myfile = fopen("../key/key.pvt", "r") or die("Unable to open file!");
-$api_key=fgets($myfile);
+$api_key=trim(fgets($myfile));
+$api_sign=$_POST['signiture'];
 fclose($myfile);
 
-$api_sign=$_POST['signiture'];
-if (strcmp($api_sign, $apikey) !== 0) {
+if (strcmp($api_sign, $api_key) == 0) {
 	writeToLog("Signiture keys match.");
 	// Database connection information.
 	$db_host="localhost";
@@ -60,11 +60,11 @@ if (strcmp($api_sign, $apikey) !== 0) {
 		$xml = $xml . "<email>".$em."</email>";
 		$xml = $xml . "</authentication>";
 		echo $xml;
-		writeToLog("End authentication.\n$xml");
+		writeToLog("End authentication.\n$xml\n\n");
                 exit;
         } else {
                 // Build XML for a Failure response.
-		writeToLog("User and password faild. Writting failure XML.");
+		writeToLog("User and password failed. Writting failure XML.");
 		header("Content-type: text/xml");
                 $xml = "<?xml version='1.0' standalone='yes'?>";
                 $xml = $xml . "<authentication>";
@@ -74,7 +74,7 @@ if (strcmp($api_sign, $apikey) !== 0) {
                 $xml = $xml . "<email></email>";
                 $xml = $xml . "</authentication>";
                 echo $xml;
-		writeToLog("End.\n");
+		writeToLog("End authentication.\n$xml\n\n");
                 exit;
         } // End response
 	writeToLog($xml);
@@ -85,7 +85,7 @@ if (strcmp($api_sign, $apikey) !== 0) {
 } // End key compare.
 } // End post request
 
-setcookie("message","An error has occured.", time() + 300, '/');
+setcookie("message","An error has occured. All conditionals failed.", time() + 300, '/');
 header('Location: ../error.php');
 
 ?>

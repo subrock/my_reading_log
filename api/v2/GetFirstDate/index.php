@@ -31,12 +31,12 @@ writeToLog("POST Request has been made.");
 
 // Get signed key passed. Compare it to the one in key/.
 $myfile = fopen("../key/key.pvt", "r") or die("Unable to open file!");
-$api_key=fgets($myfile);
+$api_key=trim(fgets($myfile));
+$api_sign=$_POST['signiture'];
 fclose($myfile);
 writeToLog("Pulling private key.");
 
-$api_sign=$_POST['signiture'];
-if (strcmp($api_sign, $apikey) !== 0) {
+if (strcmp($api_sign, $api_key) == 0) {
 	writeToLog("Signiture keys match.");
 	// Database connection information.
 	$db_host="localhost";

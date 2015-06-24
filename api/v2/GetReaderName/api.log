@@ -654,3 +654,525 @@
 15:06:22 11:49:06 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
 15:06:22 11:49:06 End GetReaderName.
 
+
+15:06:23 12:21:56 Starting GetReaderName.
+15:06:23 12:21:56 POST Request has been made.
+15:06:23 12:21:56 Pulling private key.
+15:06:23 12:21:56 Signiture keys match.
+15:06:23 12:21:56 UID 1
+15:06:23 12:21:56 select * from ReaderTable where reader_id=1
+15:06:23 12:21:56 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 12:21:56 End GetReaderName.
+
+
+15:06:23 12:25:08 Starting GetReaderName.
+15:06:23 12:25:08 POST Request has been made.
+15:06:23 12:25:08 Pulling private key.
+15:06:23 12:25:08 Signiture keys match.
+15:06:23 12:25:08 UID 19
+15:06:23 12:25:08 select * from ReaderTable where reader_id=19
+15:06:23 12:25:08 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><reader_name>Jerome Summer Reading Log</reader_name></entry>
+15:06:23 12:25:08 End GetReaderName.
+
+
+15:06:23 12:29:15 Starting GetReaderName.
+15:06:23 12:29:15 POST Request has been made.
+15:06:23 12:29:15 Pulling private key.
+15:06:23 12:29:15 Signiture keys match.
+15:06:23 12:29:15 UID 1
+15:06:23 12:29:15 select * from ReaderTable where reader_id=1
+15:06:23 12:29:15 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 12:29:15 End GetReaderName.
+
+
+15:06:23 12:29:25 Starting GetReaderName.
+15:06:23 12:29:25 POST Request has been made.
+15:06:23 12:29:25 Pulling private key.
+15:06:23 12:29:25 Signiture keys match.
+15:06:23 12:29:25 UID 1
+15:06:23 12:29:25 select * from ReaderTable where reader_id=1
+15:06:23 12:29:25 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 12:29:25 End GetReaderName.
+
+
+15:06:23 12:29:54 Starting GetReaderName.
+15:06:23 12:29:54 POST Request has been made.
+15:06:23 12:29:54 Pulling private key.
+15:06:23 12:29:54 Signiture keys match.
+15:06:23 12:29:54 UID 1
+15:06:23 12:29:54 select * from ReaderTable where reader_id=1
+15:06:23 12:29:54 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 12:29:54 End GetReaderName.
+
+
+15:06:23 12:30:51 Starting GetReaderName.
+15:06:23 12:30:51 POST Request has been made.
+15:06:23 12:30:51 Pulling private key.
+15:06:23 12:30:51 Signiture keys match.
+15:06:23 12:30:51 UID 1
+15:06:23 12:30:51 select * from ReaderTable where reader_id=1
+15:06:23 12:30:51 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 12:30:51 End GetReaderName.
+
+
+15:06:23 12:33:27 Starting GetReaderName.
+15:06:23 12:33:27 POST Request has been made.
+15:06:23 12:33:27 Pulling private key.
+15:06:23 12:33:27 Signiture keys match.
+15:06:23 12:33:27 UID 1
+15:06:23 12:33:27 select * from ReaderTable where reader_id=1
+15:06:23 12:33:27 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 12:33:27 End GetReaderName.
+
+
+15:06:23 12:34:18 Starting GetReaderName.
+15:06:23 12:34:18 POST Request has been made.
+15:06:23 12:34:18 Pulling private key.
+15:06:23 12:34:18 Signiture keys match.
+15:06:23 12:34:18 UID 1
+15:06:23 12:34:18 select * from ReaderTable where reader_id=1
+15:06:23 12:34:18 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 12:34:18 End GetReaderName.
+
+
+15:06:23 12:35:11 Starting GetReaderName.
+15:06:23 12:35:11 POST Request has been made.
+15:06:23 12:35:11 Pulling private key.
+15:06:23 12:35:11 Signiture keys match.
+15:06:23 12:35:11 UID 1
+15:06:23 12:35:11 select * from ReaderTable where reader_id=1
+15:06:23 12:35:11 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 12:35:11 End GetReaderName.
+
+
+15:06:23 12:35:38 Starting GetReaderName.
+15:06:23 12:35:38 POST Request has been made.
+15:06:23 12:35:38 Pulling private key.
+15:06:23 12:35:38 Signiture keys match.
+15:06:23 12:35:38 UID 1
+15:06:23 12:35:38 select * from ReaderTable where reader_id=1
+15:06:23 12:35:38 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 12:35:38 End GetReaderName.
+
+
+15:06:23 12:36:10 Starting GetReaderName.
+15:06:23 12:36:10 POST Request has been made.
+15:06:23 12:36:10 Pulling private key.
+15:06:23 12:36:10 Signiture keys match.
+15:06:23 12:36:10 UID 1
+15:06:23 12:36:10 select * from ReaderTable where reader_id=1
+15:06:23 12:36:10 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 12:36:10 End GetReaderName.
+
+
+15:06:23 12:36:29 Starting GetReaderName.
+15:06:23 12:36:29 POST Request has been made.
+15:06:23 12:36:29 Pulling private key.
+15:06:23 12:36:29 Signiture keys match.
+15:06:23 12:36:29 UID 19
+15:06:23 12:36:29 select * from ReaderTable where reader_id=19
+15:06:23 12:36:29 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><reader_name>Jerome Summer Reading Log</reader_name></entry>
+15:06:23 12:36:29 End GetReaderName.
+
+
+15:06:23 12:38:14 Starting GetReaderName.
+15:06:23 12:38:14 POST Request has been made.
+15:06:23 12:38:14 Pulling private key.
+15:06:23 12:38:14 Signiture keys match.
+15:06:23 12:38:14 UID 1
+15:06:23 12:38:14 select * from ReaderTable where reader_id=1
+15:06:23 12:38:14 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 12:38:14 End GetReaderName.
+
+
+15:06:23 12:44:22 Starting GetReaderName.
+15:06:23 12:44:22 POST Request has been made.
+15:06:23 12:44:22 Pulling private key.
+15:06:23 12:44:22 Signiture keys match.
+15:06:23 12:44:22 UID 19
+15:06:23 12:44:22 select * from ReaderTable where reader_id=19
+15:06:23 12:44:22 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><reader_name>Jerome Summer Reading Log</reader_name></entry>
+15:06:23 12:44:22 End GetReaderName.
+
+
+15:06:23 12:55:27 Starting GetReaderName.
+15:06:23 12:55:27 POST Request has been made.
+15:06:23 12:55:27 Pulling private key.
+15:06:23 12:55:27 Signiture keys match.
+15:06:23 12:55:27 UID 19
+15:06:23 12:55:27 select * from ReaderTable where reader_id=19
+15:06:23 12:55:27 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><reader_name>Jerome Summer Reading Log</reader_name></entry>
+15:06:23 12:55:27 End GetReaderName.
+
+
+15:06:23 12:58:11 Starting GetReaderName.
+15:06:23 12:58:11 POST Request has been made.
+15:06:23 12:58:11 Pulling private key.
+15:06:23 12:58:11 Signiture keys match.
+15:06:23 12:58:11 UID 19
+15:06:23 12:58:11 select * from ReaderTable where reader_id=19
+15:06:23 12:58:11 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><reader_name>Jerome Summer Reading Log</reader_name></entry>
+15:06:23 12:58:11 End GetReaderName.
+
+
+15:06:23 01:00:45 Starting GetReaderName.
+15:06:23 01:00:45 POST Request has been made.
+15:06:23 01:00:46 Pulling private key.
+15:06:23 01:00:46 Signiture keys match.
+15:06:23 01:00:46 UID 1
+15:06:23 01:00:46 select * from ReaderTable where reader_id=1
+15:06:23 01:00:46 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 01:00:46 End GetReaderName.
+
+
+15:06:23 01:16:16 Starting GetReaderName.
+15:06:23 01:16:16 POST Request has been made.
+15:06:23 01:16:16 Pulling private key.
+15:06:23 01:16:16 Signiture keys match.
+15:06:23 01:16:16 UID 1
+15:06:23 01:16:16 select * from ReaderTable where reader_id=1
+15:06:23 01:16:16 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 01:16:16 End GetReaderName.
+
+
+15:06:23 02:14:16 Starting GetReaderName.
+15:06:23 02:14:16 POST Request has been made.
+15:06:23 02:14:16 Pulling private key.
+15:06:23 02:14:16 Signiture keys match.
+15:06:23 02:14:16 UID 19
+15:06:23 02:14:16 select * from ReaderTable where reader_id=19
+15:06:23 02:14:16 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><reader_name>Jerome Summer Reading Log</reader_name></entry>
+15:06:23 02:14:16 End GetReaderName.
+
+
+15:06:23 02:41:47 Starting GetReaderName.
+15:06:23 02:41:47 POST Request has been made.
+15:06:23 02:41:47 Pulling private key.
+15:06:23 02:41:47 Signiture keys match.
+15:06:23 02:41:47 UID 1
+15:06:23 02:41:47 select * from ReaderTable where reader_id=1
+15:06:23 02:41:47 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 02:41:47 End GetReaderName.
+
+
+15:06:23 02:45:30 Starting GetReaderName.
+15:06:23 02:45:30 POST Request has been made.
+15:06:23 02:45:30 Pulling private key.
+15:06:23 02:45:30 Signiture keys match.
+15:06:23 02:45:30 UID 20
+15:06:23 02:45:30 select * from ReaderTable where reader_id=20
+15:06:23 02:45:30 <?xml version='1.0' standalone='yes'?><entry reader_id='20'><reader_name>Karl Reading Log</reader_name></entry>
+15:06:23 02:45:30 End GetReaderName.
+
+
+15:06:23 10:50:17 Starting GetReaderName.
+15:06:23 10:50:17 POST Request has been made.
+15:06:23 10:50:17 Pulling private key.
+15:06:23 10:50:17 Signiture keys match.
+15:06:23 10:50:17 UID 1
+15:06:23 10:50:17 select * from ReaderTable where reader_id=1
+15:06:23 10:50:17 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 10:50:17 End GetReaderName.
+
+
+15:06:23 10:59:05 Starting GetReaderName.
+15:06:23 10:59:05 POST Request has been made.
+15:06:23 10:59:05 Pulling private key.
+15:06:23 10:59:05 Signiture keys match.
+15:06:23 10:59:05 UID 1
+15:06:23 10:59:05 select * from ReaderTable where reader_id=1
+15:06:23 10:59:05 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 10:59:05 End GetReaderName.
+
+
+15:06:23 11:25:28 Starting GetReaderName.
+15:06:23 11:25:28 POST Request has been made.
+15:06:23 11:25:28 Pulling private key.
+15:06:23 11:25:28 Signiture keys match.
+15:06:23 11:25:28 UID 1
+15:06:23 11:25:28 select * from ReaderTable where reader_id=1
+15:06:23 11:25:28 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 11:25:28 End GetReaderName.
+
+
+15:06:23 11:39:32 Starting GetReaderName.
+15:06:23 11:39:32 POST Request has been made.
+15:06:23 11:39:32 Pulling private key.
+15:06:23 11:39:32 Signiture keys match.
+15:06:23 11:39:32 UID 1
+15:06:23 11:39:32 select * from ReaderTable where reader_id=1
+15:06:23 11:39:32 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 11:39:32 End GetReaderName.
+
+
+15:06:23 12:25:10 Starting GetReaderName.
+15:06:23 12:25:10 POST Request has been made.
+15:06:23 12:25:10 Pulling private key.
+15:06:23 12:25:10 Signiture keys match.
+15:06:23 12:25:10 UID 20
+15:06:23 12:25:10 select * from ReaderTable where reader_id=20
+15:06:23 12:25:10 <?xml version='1.0' standalone='yes'?><entry reader_id='20'><reader_name>Karl Reading Log</reader_name></entry>
+15:06:23 12:25:10 End GetReaderName.
+
+
+15:06:23 04:06:21 Starting GetReaderName.
+15:06:23 04:06:21 POST Request has been made.
+15:06:23 04:06:21 Pulling private key.
+15:06:23 04:06:21 Signiture keys match.
+15:06:23 04:06:21 UID 20
+15:06:23 04:06:21 select * from ReaderTable where reader_id=20
+15:06:23 04:06:21 <?xml version='1.0' standalone='yes'?><entry reader_id='20'><reader_name>Karl Reading Log</reader_name></entry>
+15:06:23 04:06:21 End GetReaderName.
+
+
+15:06:23 04:06:30 Starting GetReaderName.
+15:06:23 04:06:30 POST Request has been made.
+15:06:23 04:06:30 Pulling private key.
+15:06:23 04:06:30 Signiture keys match.
+15:06:23 04:06:30 UID 1
+15:06:23 04:06:30 select * from ReaderTable where reader_id=1
+15:06:23 04:06:30 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:23 04:06:30 End GetReaderName.
+
+
+15:06:24 09:31:19 Starting GetReaderName.
+15:06:24 09:31:19 POST Request has been made.
+15:06:24 09:31:19 Pulling private key.
+15:06:24 09:31:19 Signiture keys match.
+15:06:24 09:31:19 UID 1
+15:06:24 09:31:19 select * from ReaderTable where reader_id=1
+15:06:24 09:31:19 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 09:31:19 End GetReaderName.
+
+
+15:06:24 09:38:15 Starting GetReaderName.
+15:06:24 09:38:15 POST Request has been made.
+15:06:24 09:38:15 Pulling private key.
+15:06:24 09:38:15 Signiture keys match.
+15:06:24 09:38:15 UID 1
+15:06:24 09:38:15 select * from ReaderTable where reader_id=1
+15:06:24 09:38:15 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 09:38:15 End GetReaderName.
+
+
+15:06:24 10:00:09 Starting GetReaderName.
+15:06:24 10:00:09 POST Request has been made.
+15:06:24 10:00:09 Pulling private key.
+15:06:24 10:00:09 Signiture keys match.
+15:06:24 10:00:09 UID 1
+15:06:24 10:00:09 select * from ReaderTable where reader_id=1
+15:06:24 10:00:09 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 10:00:09 End GetReaderName.
+
+
+15:06:24 10:00:19 Starting GetReaderName.
+15:06:24 10:00:19 POST Request has been made.
+15:06:24 10:00:19 Pulling private key.
+15:06:24 10:00:19 Signiture keys match.
+15:06:24 10:00:19 UID 1
+15:06:24 10:00:19 select * from ReaderTable where reader_id=1
+15:06:24 10:00:19 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 10:00:19 End GetReaderName.
+
+
+15:06:24 10:11:59 Starting GetReaderName.
+15:06:24 10:11:59 POST Request has been made.
+15:06:24 10:11:59 Pulling private key.
+15:06:24 10:11:59 Signiture keys match.
+15:06:24 10:11:59 UID 1
+15:06:24 10:11:59 select * from ReaderTable where reader_id=1
+15:06:24 10:11:59 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 10:11:59 End GetReaderName.
+
+
+15:06:24 11:25:40 Starting GetReaderName.
+15:06:24 11:25:40 POST Request has been made.
+15:06:24 11:25:40 Pulling private key.
+15:06:24 11:25:40 Signiture keys match.
+15:06:24 11:25:40 UID 1
+15:06:24 11:25:40 select * from ReaderTable where reader_id=1
+15:06:24 11:25:40 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 11:25:40 End GetReaderName.
+
+
+15:06:24 11:30:25 Starting GetReaderName.
+15:06:24 11:30:25 POST Request has been made.
+15:06:24 11:30:25 Pulling private key.
+15:06:24 11:30:25 Signiture keys match.
+15:06:24 11:30:25 UID 1
+15:06:24 11:30:25 select * from ReaderTable where reader_id=1
+15:06:24 11:30:25 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 11:30:25 End GetReaderName.
+
+
+15:06:24 11:30:44 Starting GetReaderName.
+15:06:24 11:30:44 POST Request has been made.
+15:06:24 11:30:44 Pulling private key.
+15:06:24 11:30:44 Signiture keys match.
+15:06:24 11:30:44 UID 1
+15:06:24 11:30:44 select * from ReaderTable where reader_id=1
+15:06:24 11:30:44 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 11:30:44 End GetReaderName.
+
+
+15:06:24 11:35:50 Starting GetReaderName.
+15:06:24 11:35:50 POST Request has been made.
+15:06:24 11:35:50 Pulling private key.
+15:06:24 11:35:50 Signiture keys match.
+15:06:24 11:35:50 UID 1
+15:06:24 11:35:50 select * from ReaderTable where reader_id=1
+15:06:24 11:35:50 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 11:35:50 End GetReaderName.
+
+
+15:06:24 11:45:23 Starting GetReaderName.
+15:06:24 11:45:23 POST Request has been made.
+15:06:24 11:45:23 Pulling private key.
+15:06:24 11:45:23 Signiture keys match.
+15:06:24 11:45:23 UID 1
+15:06:24 11:45:23 select * from ReaderTable where reader_id=1
+15:06:24 11:45:23 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 11:45:23 End GetReaderName.
+
+
+15:06:24 11:46:23 Starting GetReaderName.
+15:06:24 11:46:23 POST Request has been made.
+15:06:24 11:46:23 Pulling private key.
+15:06:24 11:46:23 Signiture keys match.
+15:06:24 11:46:23 UID 1
+15:06:24 11:46:23 select * from ReaderTable where reader_id=1
+15:06:24 11:46:23 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 11:46:23 End GetReaderName.
+
+
+15:06:24 11:47:18 Starting GetReaderName.
+15:06:24 11:47:18 POST Request has been made.
+15:06:24 11:47:18 Pulling private key.
+15:06:24 11:47:18 Signiture keys match.
+15:06:24 11:47:18 UID 1
+15:06:24 11:47:18 select * from ReaderTable where reader_id=1
+15:06:24 11:47:18 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 11:47:18 End GetReaderName.
+
+
+15:06:24 11:48:17 Starting GetReaderName.
+15:06:24 11:48:17 POST Request has been made.
+15:06:24 11:48:17 Pulling private key.
+15:06:24 11:48:17 Signiture keys match.
+15:06:24 11:48:17 UID 1
+15:06:24 11:48:17 select * from ReaderTable where reader_id=1
+15:06:24 11:48:17 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 11:48:17 End GetReaderName.
+
+
+15:06:24 11:53:55 Starting GetReaderName.
+15:06:24 11:53:55 POST Request has been made.
+15:06:24 11:53:55 Pulling private key.
+15:06:24 11:53:55 Signiture keys match.
+15:06:24 11:53:55 UID 1
+15:06:24 11:53:55 select * from ReaderTable where reader_id=1
+15:06:24 11:53:55 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 11:53:55 End GetReaderName.
+
+
+15:06:24 12:06:46 Starting GetReaderName.
+15:06:24 12:06:46 POST Request has been made.
+15:06:24 12:06:46 Pulling private key.
+15:06:24 12:06:46 Signiture keys match.
+15:06:24 12:06:46 UID 1
+15:06:24 12:06:46 select * from ReaderTable where reader_id=1
+15:06:24 12:06:46 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 12:06:46 End GetReaderName.
+
+
+15:06:24 12:08:12 Starting GetReaderName.
+15:06:24 12:08:12 POST Request has been made.
+15:06:24 12:08:12 Pulling private key.
+15:06:24 12:08:12 Signiture keys match.
+15:06:24 12:08:12 UID 1
+15:06:24 12:08:12 select * from ReaderTable where reader_id=1
+15:06:24 12:08:12 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 12:08:12 End GetReaderName.
+
+
+15:06:24 12:08:47 Starting GetReaderName.
+15:06:24 12:08:47 POST Request has been made.
+15:06:24 12:08:47 Pulling private key.
+15:06:24 12:08:47 Signiture keys match.
+15:06:24 12:08:47 UID 1
+15:06:24 12:08:47 select * from ReaderTable where reader_id=1
+15:06:24 12:08:47 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 12:08:47 End GetReaderName.
+
+
+15:06:24 12:09:05 Starting GetReaderName.
+15:06:24 12:09:05 POST Request has been made.
+15:06:24 12:09:05 Pulling private key.
+15:06:24 12:09:05 Signiture keys match.
+15:06:24 12:09:05 UID 1
+15:06:24 12:09:05 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 12:09:05 End GetReaderName.
+
+
+15:06:24 12:13:36 Starting GetReaderName.
+15:06:24 12:13:36 POST Request has been made.
+15:06:24 12:13:36 Pulling private key.
+15:06:24 12:13:36 Signiture keys match.
+15:06:24 12:13:36 UID 24
+15:06:24 12:13:36 <?xml version='1.0' standalone='yes'?><entry reader_id='24'><reader_name>Test Log</reader_name></entry>
+15:06:24 12:13:36 End GetReaderName.
+
+
+15:06:24 12:15:02 Starting GetReaderName.
+15:06:24 12:15:02 POST Request has been made.
+15:06:24 12:15:02 Pulling private key.
+15:06:24 12:15:02 Signiture keys match.
+15:06:24 12:15:02 UID 25
+15:06:24 12:15:02 <?xml version='1.0' standalone='yes'?><entry reader_id='25'><reader_name>Test2 Log</reader_name></entry>
+15:06:24 12:15:02 End GetReaderName.
+
+
+15:06:24 12:16:21 Starting GetReaderName.
+15:06:24 12:16:21 POST Request has been made.
+15:06:24 12:16:21 Pulling private key.
+15:06:24 12:16:21 Signiture keys match.
+15:06:24 12:16:21 UID 1
+15:06:24 12:16:21 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 12:16:21 End GetReaderName.
+
+
+15:06:24 12:19:31 Starting GetReaderName.
+15:06:24 12:19:31 POST Request has been made.
+15:06:24 12:19:31 Pulling private key.
+15:06:24 12:19:31 Signiture keys match.
+15:06:24 12:19:31 UID 1
+15:06:24 12:19:31 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 12:19:31 End GetReaderName.
+
+
+15:06:24 12:19:48 Starting GetReaderName.
+15:06:24 12:19:48 POST Request has been made.
+15:06:24 12:19:48 Pulling private key.
+15:06:24 12:19:48 Signiture keys match.
+15:06:24 12:19:48 UID 1
+15:06:24 12:19:48 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 12:19:48 End GetReaderName.
+
+
+15:06:24 12:20:09 Starting GetReaderName.
+15:06:24 12:20:09 POST Request has been made.
+15:06:24 12:20:09 Pulling private key.
+15:06:24 12:20:09 Signiture keys match.
+15:06:24 12:20:09 UID 1
+15:06:24 12:20:09 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 12:20:09 End GetReaderName.
+
+
+15:06:24 12:34:20 Starting GetReaderName.
+15:06:24 12:34:20 POST Request has been made.
+15:06:24 12:34:20 Pulling private key.
+15:06:24 12:34:20 Signiture keys match.
+15:06:24 12:34:20 UID 1
+15:06:24 12:34:20 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:24 12:34:20 End GetReaderName.
+

@@ -297,3 +297,45 @@
 15:06:22 11:49:02 SELECT * FROM ReaderTable WHERE reader_name = 'My Reading Log'
 15:06:22 11:49:02 User registration faild. User already exists. Writting failure XML.
 15:06:22 11:49:02 End.
+
+15:06:23 02:45:17 Starting registration script.
+15:06:23 02:45:17 POST Request has been made.
+15:06:23 02:45:17 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+15:06:23 02:45:17 1mg!9ty#xe!@vn(k@7=yy1gn@k(a-2po+q=si4r5&v1r)3d7xg
+
+15:06:23 02:45:17 Signiture keys match.
+15:06:23 02:45:17 SELECT * FROM ReaderTable WHERE reader_name = 'Karl Reading Log'
+15:06:23 02:45:17 User registration faild. User already exists. Writting failure XML.
+15:06:23 02:45:17 End.
+
+15:06:24 12:13:36 Starting registration script.
+15:06:24 12:13:36 POST Request has been made.
+15:06:24 12:13:36 Signiture keys match.
+15:06:24 12:13:36 SELECT * FROM ReaderTable WHERE reader_name = 'Test Log'
+15:06:24 12:13:36 User does not exist.
+15:06:24 12:13:36 24
+15:06:24 12:13:36 Test Log
+15:06:24 12:13:36 testme
+15:06:24 12:13:36 
+15:06:24 12:13:36 User registration sucessful. Writting success XML.
+15:06:24 12:13:36 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Sucess</result><id>24</id><name>Test Log</name><email></email></registration>
+
+
+15:06:24 12:15:01 Starting registration script.
+15:06:24 12:15:01 POST Request has been made.
+15:06:24 12:15:01 Signiture keys match.
+15:06:24 12:15:01 SELECT * FROM ReaderTable WHERE reader_name = 'Test2 Log'
+15:06:24 12:15:01 User does not exist. Creating a new account.
+15:06:24 12:15:01 User registration sucessful. Writting success XML.
+15:06:24 12:15:01 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Sucess</result><id>25</id><name>Test2 Log</name><email></email></registration>
+
+
+15:06:24 12:15:44 Starting registration script.
+15:06:24 12:15:44 POST Request has been made.
+15:06:24 12:15:44 Signiture keys match.
+15:06:24 12:15:44 User registration faild. User already exists. Writting failure XML.
+15:06:24 12:15:44 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Failure</result><id></id><name>Test Log</name><reason>User already exists.</reason><email></email></registration>
+

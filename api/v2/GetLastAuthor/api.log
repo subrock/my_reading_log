@@ -185,3 +185,550 @@
 15:06:22 11:49:07 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
 15:06:22 11:49:07 End GetLastAuthor.
 
+
+15:06:23 12:21:58 Starting GetLastAuthor.
+15:06:23 12:21:58 POST Request has been made.
+15:06:23 12:21:58 Pulling private key.
+15:06:23 12:21:58 Signiture keys match.
+15:06:23 12:21:58 UID 1
+15:06:23 12:21:58 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 12:21:58 
+15:06:23 12:21:58 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 12:21:58 End GetLastAuthor.
+
+
+15:06:23 12:25:09 Starting GetLastAuthor.
+15:06:23 12:25:09 POST Request has been made.
+15:06:23 12:25:09 Pulling private key.
+15:06:23 12:25:09 Signiture keys match.
+15:06:23 12:25:09 UID 19
+15:06:23 12:25:09 select * from EntryTable where entry_reader_id=19 ORDER BY entry_id DESC LIMIT 1
+15:06:23 12:25:09 
+15:06:23 12:25:09 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><author></author></entry>
+15:06:23 12:25:09 End GetLastAuthor.
+
+
+15:06:23 12:29:16 Starting GetLastAuthor.
+15:06:23 12:29:16 POST Request has been made.
+15:06:23 12:29:16 Pulling private key.
+15:06:23 12:29:16 Signiture keys match.
+15:06:23 12:29:16 UID 1
+15:06:23 12:29:16 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 12:29:16 
+15:06:23 12:29:16 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 12:29:16 End GetLastAuthor.
+
+
+15:06:23 12:29:26 Starting GetLastAuthor.
+15:06:23 12:29:26 POST Request has been made.
+15:06:23 12:29:26 Pulling private key.
+15:06:23 12:29:26 Signiture keys match.
+15:06:23 12:29:26 UID 1
+15:06:23 12:29:26 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 12:29:26 
+15:06:23 12:29:26 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 12:29:26 End GetLastAuthor.
+
+
+15:06:23 12:29:55 Starting GetLastAuthor.
+15:06:23 12:29:55 POST Request has been made.
+15:06:23 12:29:55 Pulling private key.
+15:06:23 12:29:55 Signiture keys match.
+15:06:23 12:29:55 UID 1
+15:06:23 12:29:55 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 12:29:55 
+15:06:23 12:29:55 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 12:29:55 End GetLastAuthor.
+
+
+15:06:23 12:30:51 Starting GetLastAuthor.
+15:06:23 12:30:51 POST Request has been made.
+15:06:23 12:30:51 Pulling private key.
+15:06:23 12:30:51 Signiture keys match.
+15:06:23 12:30:51 UID 1
+15:06:23 12:30:51 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 12:30:51 
+15:06:23 12:30:51 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 12:30:51 End GetLastAuthor.
+
+
+15:06:23 12:33:28 Starting GetLastAuthor.
+15:06:23 12:33:28 POST Request has been made.
+15:06:23 12:33:28 Pulling private key.
+15:06:23 12:33:28 Signiture keys match.
+15:06:23 12:33:28 UID 1
+15:06:23 12:33:28 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 12:33:28 
+15:06:23 12:33:28 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 12:33:28 End GetLastAuthor.
+
+
+15:06:23 12:34:19 Starting GetLastAuthor.
+15:06:23 12:34:19 POST Request has been made.
+15:06:23 12:34:19 Pulling private key.
+15:06:23 12:34:19 Signiture keys match.
+15:06:23 12:34:19 UID 1
+15:06:23 12:34:19 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 12:34:19 
+15:06:23 12:34:19 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 12:34:19 End GetLastAuthor.
+
+
+15:06:23 12:35:11 Starting GetLastAuthor.
+15:06:23 12:35:11 POST Request has been made.
+15:06:23 12:35:11 Pulling private key.
+15:06:23 12:35:11 Signiture keys match.
+15:06:23 12:35:11 UID 1
+15:06:23 12:35:11 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 12:35:11 
+15:06:23 12:35:11 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 12:35:11 End GetLastAuthor.
+
+
+15:06:23 12:35:38 Starting GetLastAuthor.
+15:06:23 12:35:38 POST Request has been made.
+15:06:23 12:35:38 Pulling private key.
+15:06:23 12:35:38 Signiture keys match.
+15:06:23 12:35:38 UID 1
+15:06:23 12:35:38 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 12:35:38 
+15:06:23 12:35:38 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 12:35:38 End GetLastAuthor.
+
+
+15:06:23 12:36:11 Starting GetLastAuthor.
+15:06:23 12:36:11 POST Request has been made.
+15:06:23 12:36:11 Pulling private key.
+15:06:23 12:36:11 Signiture keys match.
+15:06:23 12:36:11 UID 1
+15:06:23 12:36:11 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 12:36:11 
+15:06:23 12:36:11 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 12:36:11 End GetLastAuthor.
+
+
+15:06:23 12:36:29 Starting GetLastAuthor.
+15:06:23 12:36:29 POST Request has been made.
+15:06:23 12:36:29 Pulling private key.
+15:06:23 12:36:29 Signiture keys match.
+15:06:23 12:36:29 UID 19
+15:06:23 12:36:29 select * from EntryTable where entry_reader_id=19 ORDER BY entry_id DESC LIMIT 1
+15:06:23 12:36:29 
+15:06:23 12:36:29 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><author></author></entry>
+15:06:23 12:36:29 End GetLastAuthor.
+
+
+15:06:23 12:38:14 Starting GetLastAuthor.
+15:06:23 12:38:14 POST Request has been made.
+15:06:23 12:38:14 Pulling private key.
+15:06:23 12:38:14 Signiture keys match.
+15:06:23 12:38:14 UID 1
+15:06:23 12:38:14 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 12:38:14 
+15:06:23 12:38:14 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 12:38:14 End GetLastAuthor.
+
+
+15:06:23 12:44:23 Starting GetLastAuthor.
+15:06:23 12:44:23 POST Request has been made.
+15:06:23 12:44:23 Pulling private key.
+15:06:23 12:44:23 Signiture keys match.
+15:06:23 12:44:23 UID 19
+15:06:23 12:44:23 select * from EntryTable where entry_reader_id=19 ORDER BY entry_id DESC LIMIT 1
+15:06:23 12:44:23 
+15:06:23 12:44:23 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><author></author></entry>
+15:06:23 12:44:23 End GetLastAuthor.
+
+
+15:06:23 12:55:28 Starting GetLastAuthor.
+15:06:23 12:55:28 POST Request has been made.
+15:06:23 12:55:28 Pulling private key.
+15:06:23 12:55:28 Signiture keys match.
+15:06:23 12:55:28 UID 19
+15:06:23 12:55:28 select * from EntryTable where entry_reader_id=19 ORDER BY entry_id DESC LIMIT 1
+15:06:23 12:55:28 
+15:06:23 12:55:28 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><author></author></entry>
+15:06:23 12:55:28 End GetLastAuthor.
+
+
+15:06:23 12:58:12 Starting GetLastAuthor.
+15:06:23 12:58:12 POST Request has been made.
+15:06:23 12:58:12 Pulling private key.
+15:06:23 12:58:12 Signiture keys match.
+15:06:23 12:58:12 UID 19
+15:06:23 12:58:12 select * from EntryTable where entry_reader_id=19 ORDER BY entry_id DESC LIMIT 1
+15:06:23 12:58:12 
+15:06:23 12:58:12 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><author></author></entry>
+15:06:23 12:58:12 End GetLastAuthor.
+
+
+15:06:23 01:00:46 Starting GetLastAuthor.
+15:06:23 01:00:46 POST Request has been made.
+15:06:23 01:00:46 Pulling private key.
+15:06:23 01:00:46 Signiture keys match.
+15:06:23 01:00:46 UID 1
+15:06:23 01:00:46 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 01:00:46 
+15:06:23 01:00:46 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 01:00:46 End GetLastAuthor.
+
+
+15:06:23 01:16:17 Starting GetLastAuthor.
+15:06:23 01:16:17 POST Request has been made.
+15:06:23 01:16:17 Pulling private key.
+15:06:23 01:16:17 Signiture keys match.
+15:06:23 01:16:17 UID 1
+15:06:23 01:16:17 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 01:16:17 
+15:06:23 01:16:17 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 01:16:17 End GetLastAuthor.
+
+
+15:06:23 02:14:18 Starting GetLastAuthor.
+15:06:23 02:14:18 POST Request has been made.
+15:06:23 02:14:18 Pulling private key.
+15:06:23 02:14:18 Signiture keys match.
+15:06:23 02:14:18 UID 19
+15:06:23 02:14:18 select * from EntryTable where entry_reader_id=19 ORDER BY entry_id DESC LIMIT 1
+15:06:23 02:14:18 
+15:06:23 02:14:18 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><author></author></entry>
+15:06:23 02:14:18 End GetLastAuthor.
+
+
+15:06:23 02:41:48 Starting GetLastAuthor.
+15:06:23 02:41:48 POST Request has been made.
+15:06:23 02:41:48 Pulling private key.
+15:06:23 02:41:48 Signiture keys match.
+15:06:23 02:41:48 UID 1
+15:06:23 02:41:48 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 02:41:48 
+15:06:23 02:41:48 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 02:41:48 End GetLastAuthor.
+
+
+15:06:23 02:45:31 Starting GetLastAuthor.
+15:06:23 02:45:31 POST Request has been made.
+15:06:23 02:45:31 Pulling private key.
+15:06:23 02:45:31 Signiture keys match.
+15:06:23 02:45:31 UID 20
+15:06:23 02:45:31 select * from EntryTable where entry_reader_id=20 ORDER BY entry_id DESC LIMIT 1
+15:06:23 02:45:31 
+15:06:23 02:45:31 <?xml version='1.0' standalone='yes'?><entry reader_id='20'><author></author></entry>
+15:06:23 02:45:31 End GetLastAuthor.
+
+
+15:06:23 10:50:18 Starting GetLastAuthor.
+15:06:23 10:50:18 POST Request has been made.
+15:06:23 10:50:18 Pulling private key.
+15:06:23 10:50:18 Signiture keys match.
+15:06:23 10:50:18 UID 1
+15:06:23 10:50:18 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 10:50:18 
+15:06:23 10:50:18 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 10:50:18 End GetLastAuthor.
+
+
+15:06:23 10:59:06 Starting GetLastAuthor.
+15:06:23 10:59:06 POST Request has been made.
+15:06:23 10:59:06 Pulling private key.
+15:06:23 10:59:06 Signiture keys match.
+15:06:23 10:59:06 UID 1
+15:06:23 10:59:06 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 10:59:06 
+15:06:23 10:59:06 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 10:59:06 End GetLastAuthor.
+
+
+15:06:23 11:25:29 Starting GetLastAuthor.
+15:06:23 11:25:29 POST Request has been made.
+15:06:23 11:25:29 Pulling private key.
+15:06:23 11:25:29 Signiture keys match.
+15:06:23 11:25:29 UID 1
+15:06:23 11:25:29 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 11:25:29 
+15:06:23 11:25:29 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 11:25:29 End GetLastAuthor.
+
+
+15:06:23 11:39:34 Starting GetLastAuthor.
+15:06:23 11:39:34 POST Request has been made.
+15:06:23 11:39:34 Pulling private key.
+15:06:23 11:39:34 Signiture keys match.
+15:06:23 11:39:34 UID 1
+15:06:23 11:39:34 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 11:39:34 
+15:06:23 11:39:34 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 11:39:34 End GetLastAuthor.
+
+
+15:06:23 12:25:12 Starting GetLastAuthor.
+15:06:23 12:25:12 POST Request has been made.
+15:06:23 12:25:12 Pulling private key.
+15:06:23 12:25:12 Signiture keys match.
+15:06:23 12:25:12 UID 20
+15:06:23 12:25:12 select * from EntryTable where entry_reader_id=20 ORDER BY entry_id DESC LIMIT 1
+15:06:23 12:25:12 
+15:06:23 12:25:12 <?xml version='1.0' standalone='yes'?><entry reader_id='20'><author></author></entry>
+15:06:23 12:25:12 End GetLastAuthor.
+
+
+15:06:23 04:06:22 Starting GetLastAuthor.
+15:06:23 04:06:22 POST Request has been made.
+15:06:23 04:06:22 Pulling private key.
+15:06:23 04:06:22 Signiture keys match.
+15:06:23 04:06:22 UID 20
+15:06:23 04:06:22 select * from EntryTable where entry_reader_id=20 ORDER BY entry_id DESC LIMIT 1
+15:06:23 04:06:22 
+15:06:23 04:06:22 <?xml version='1.0' standalone='yes'?><entry reader_id='20'><author></author></entry>
+15:06:23 04:06:22 End GetLastAuthor.
+
+
+15:06:23 04:06:31 Starting GetLastAuthor.
+15:06:23 04:06:31 POST Request has been made.
+15:06:23 04:06:31 Pulling private key.
+15:06:23 04:06:31 Signiture keys match.
+15:06:23 04:06:31 UID 1
+15:06:23 04:06:31 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:23 04:06:31 
+15:06:23 04:06:31 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:23 04:06:31 End GetLastAuthor.
+
+
+15:06:24 09:31:20 Starting GetLastAuthor.
+15:06:24 09:31:20 POST Request has been made.
+15:06:24 09:31:20 Pulling private key.
+15:06:24 09:31:20 Signiture keys match.
+15:06:24 09:31:20 UID 1
+15:06:24 09:31:20 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:24 09:31:20 
+15:06:24 09:31:20 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:24 09:31:20 End GetLastAuthor.
+
+
+15:06:24 09:38:16 Starting GetLastAuthor.
+15:06:24 09:38:16 POST Request has been made.
+15:06:24 09:38:16 Pulling private key.
+15:06:24 09:38:16 Signiture keys match.
+15:06:24 09:38:16 UID 1
+15:06:24 09:38:16 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:24 09:38:16 
+15:06:24 09:38:16 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:24 09:38:16 End GetLastAuthor.
+
+
+15:06:24 10:00:12 Starting GetLastAuthor.
+15:06:24 10:00:12 POST Request has been made.
+15:06:24 10:00:12 Pulling private key.
+15:06:24 10:00:12 Signiture keys match.
+15:06:24 10:00:12 UID 1
+15:06:24 10:00:12 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:24 10:00:12 
+15:06:24 10:00:12 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:24 10:00:12 End GetLastAuthor.
+
+
+15:06:24 10:00:20 Starting GetLastAuthor.
+15:06:24 10:00:20 POST Request has been made.
+15:06:24 10:00:20 Pulling private key.
+15:06:24 10:00:20 Signiture keys match.
+15:06:24 10:00:20 UID 1
+15:06:24 10:00:20 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:24 10:00:20 
+15:06:24 10:00:20 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:24 10:00:20 End GetLastAuthor.
+
+
+15:06:24 10:12:00 Starting GetLastAuthor.
+15:06:24 10:12:00 POST Request has been made.
+15:06:24 10:12:00 Pulling private key.
+15:06:24 10:12:00 Signiture keys match.
+15:06:24 10:12:00 UID 1
+15:06:24 10:12:00 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:24 10:12:00 
+15:06:24 10:12:00 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:24 10:12:00 End GetLastAuthor.
+
+
+15:06:24 11:25:41 Starting GetLastAuthor.
+15:06:24 11:25:41 POST Request has been made.
+15:06:24 11:25:41 Pulling private key.
+15:06:24 11:25:41 Signiture keys match.
+15:06:24 11:25:41 UID 1
+15:06:24 11:25:41 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:24 11:25:41 
+15:06:24 11:25:41 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:24 11:25:41 End GetLastAuthor.
+
+
+15:06:24 11:30:26 Starting GetLastAuthor.
+15:06:24 11:30:26 POST Request has been made.
+15:06:24 11:30:26 Pulling private key.
+15:06:24 11:30:26 Signiture keys match.
+15:06:24 11:30:26 UID 1
+15:06:24 11:30:26 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:24 11:30:26 
+15:06:24 11:30:26 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:24 11:30:26 End GetLastAuthor.
+
+
+15:06:24 11:30:45 Starting GetLastAuthor.
+15:06:24 11:30:45 POST Request has been made.
+15:06:24 11:30:45 Pulling private key.
+15:06:24 11:30:45 Signiture keys match.
+15:06:24 11:30:45 UID 1
+15:06:24 11:30:45 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:24 11:30:45 
+15:06:24 11:30:45 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:24 11:30:45 End GetLastAuthor.
+
+
+15:06:24 11:35:51 Starting GetLastAuthor.
+15:06:24 11:35:51 POST Request has been made.
+15:06:24 11:35:51 Pulling private key.
+15:06:24 11:35:51 Signiture keys match.
+15:06:24 11:35:51 UID 1
+15:06:24 11:35:51 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:24 11:35:51 
+15:06:24 11:35:51 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:24 11:35:51 End GetLastAuthor.
+
+
+15:06:24 11:45:24 Starting GetLastAuthor.
+15:06:24 11:45:24 POST Request has been made.
+15:06:24 11:45:24 Pulling private key.
+15:06:24 11:46:24 Starting GetLastAuthor.
+15:06:24 11:46:24 POST Request has been made.
+15:06:24 11:46:24 Pulling private key.
+15:06:24 11:46:24 Signiture keys match.
+15:06:24 11:46:24 UID 1
+15:06:24 11:46:24 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:24 11:46:24 
+15:06:24 11:46:24 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:24 11:46:24 End GetLastAuthor.
+
+
+15:06:24 11:47:18 Starting GetLastAuthor.
+15:06:24 11:47:18 POST Request has been made.
+15:06:24 11:47:18 Pulling private key.
+15:06:24 11:47:18 Signiture keys match.
+15:06:24 11:47:18 UID 1
+15:06:24 11:47:18 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:24 11:47:18 
+15:06:24 11:47:18 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:24 11:47:18 End GetLastAuthor.
+
+
+15:06:24 11:48:17 Starting GetLastAuthor.
+15:06:24 11:48:17 POST Request has been made.
+15:06:24 11:48:17 Pulling private key.
+15:06:24 11:48:17 Signiture keys match.
+15:06:24 11:48:17 UID 1
+15:06:24 11:48:17 
+15:06:24 11:48:17 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author></author></entry>
+15:06:24 11:48:17 End GetLastAuthor.
+
+
+15:06:24 11:51:47 Starting GetLastAuthor.
+15:06:24 11:52:39 Starting GetLastAuthor.
+15:06:24 11:53:42 Starting GetLastAuthor.
+15:06:24 11:53:56 Starting GetLastAuthor.
+15:06:24 11:53:56 POST Request has been made.
+15:06:24 11:53:56 Pulling private key.
+15:06:24 11:53:56 Signiture keys match.
+15:06:24 11:53:56 UID 1
+15:06:24 11:53:56 Roald Dahl
+15:06:24 11:53:56 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Roald Dahl</author></entry>
+15:06:24 11:53:56 End GetLastAuthor.
+
+
+15:06:24 11:55:26 Starting GetLastAuthor.
+15:06:24 11:56:05 Starting GetLastAuthor.
+15:06:24 11:56:37 Starting GetLastAuthor.
+15:06:24 11:56:37 POST Request has been made.
+15:06:24 11:56:37 Pulling private key.
+15:06:24 11:56:37 Signiture keys match.
+15:06:24 11:56:37 UID 1
+15:06:24 11:56:37 Roald Dahl
+15:06:24 11:56:37 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Roald Dahl</author></entry>
+15:06:24 11:56:37 End GetLastAuthor.
+
+
+15:06:24 12:06:47 Starting GetLastAuthor.
+15:06:24 12:06:47 POST Request has been made.
+15:06:24 12:06:47 Pulling private key.
+15:06:24 12:06:47 Signiture keys match.
+15:06:24 12:06:47 UID 1
+15:06:24 12:06:47 Roald Dahl
+15:06:24 12:06:47 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Roald Dahl</author></entry>
+15:06:24 12:06:47 End GetLastAuthor.
+
+
+15:06:24 12:13:36 Starting GetLastAuthor.
+15:06:24 12:13:36 POST Request has been made.
+15:06:24 12:13:36 Pulling private key.
+15:06:24 12:13:36 Signiture keys match.
+15:06:24 12:13:36 UID 24
+15:06:24 12:13:36 
+15:06:24 12:13:36 <?xml version='1.0' standalone='yes'?><entry reader_id='24'><author></author></entry>
+15:06:24 12:13:36 End GetLastAuthor.
+
+
+15:06:24 12:15:02 Starting GetLastAuthor.
+15:06:24 12:15:02 POST Request has been made.
+15:06:24 12:15:02 Pulling private key.
+15:06:24 12:15:02 Signiture keys match.
+15:06:24 12:15:02 UID 25
+15:06:24 12:15:02 
+15:06:24 12:15:02 <?xml version='1.0' standalone='yes'?><entry reader_id='25'><author></author></entry>
+15:06:24 12:15:02 End GetLastAuthor.
+
+
+15:06:24 12:16:21 Starting GetLastAuthor.
+15:06:24 12:16:21 POST Request has been made.
+15:06:24 12:16:21 Pulling private key.
+15:06:24 12:16:21 Signiture keys match.
+15:06:24 12:16:21 UID 1
+15:06:24 12:16:21 Roald Dahl
+15:06:24 12:16:21 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Roald Dahl</author></entry>
+15:06:24 12:16:21 End GetLastAuthor.
+
+
+15:06:24 12:19:32 Starting GetLastAuthor.
+15:06:24 12:19:32 POST Request has been made.
+15:06:24 12:19:32 Pulling private key.
+15:06:24 12:19:32 Signiture keys match.
+15:06:24 12:19:32 UID 1
+15:06:24 12:19:32 Roald Dahl
+15:06:24 12:19:32 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Roald Dahl</author></entry>
+15:06:24 12:19:32 End GetLastAuthor.
+
+
+15:06:24 12:19:49 Starting GetLastAuthor.
+15:06:24 12:19:49 POST Request has been made.
+15:06:24 12:19:49 Pulling private key.
+15:06:24 12:19:49 Signiture keys match.
+15:06:24 12:19:49 UID 1
+15:06:24 12:19:49 Roald Dahl
+15:06:24 12:19:49 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Roald Dahl</author></entry>
+15:06:24 12:19:49 End GetLastAuthor.
+
+
+15:06:24 12:20:10 Starting GetLastAuthor.
+15:06:24 12:20:10 POST Request has been made.
+15:06:24 12:20:10 Pulling private key.
+15:06:24 12:20:10 Signiture keys match.
+15:06:24 12:20:10 UID 1
+15:06:24 12:20:10 Roald Dahl
+15:06:24 12:20:10 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Roald Dahl</author></entry>
+15:06:24 12:20:10 End GetLastAuthor.
+
+
+15:06:24 12:34:21 Starting GetLastAuthor.
+15:06:24 12:34:21 POST Request has been made.
+15:06:24 12:34:21 Pulling private key.
+15:06:24 12:34:21 Signiture keys match.
+15:06:24 12:34:21 UID 1
+15:06:24 12:34:21 Roald Dahl
+15:06:24 12:34:21 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Roald Dahl</author></entry>
+15:06:24 12:34:21 End GetLastAuthor.
+

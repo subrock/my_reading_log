@@ -69,27 +69,11 @@ foreach ($sxe->book as $book) {
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
 <script src=jquery.min.js></script>
 <script src="javascript.js"></script>
-<script>
-function show(target){
-document.getElementById(target).style.display = 'block';
-document.getElementById("clickMeId").style.display = 'none';
-}
-function hide(target){
-document.getElementById(target).style.display = 'none';
-document.getElementById("clickMeId").style.display = 'block';
-}
-</script>
-
-<script type="text/javascript">
-function load() {
-window.scrollTo(0, document.body.scrollHeight);
-}
-</script>
 
 
 </head>
-
 <body style="margin:10;padding:10" alink=silver vlink=navy link=navy onload="load()" bgcolor=#303030>
+<a name=top></a>
 <?
 if ($_GET['sort']) {
 	array_sort_by_column($entry, $_GET['sort'],$aso);
@@ -144,6 +128,7 @@ echo "</td></tr></table>";
 <input class=btn type=button class='no-print' value="Print" onClick="window.print();">
 <input class=btn type=button class='no-print' value="Forms" onClick="window.location='forms/'">
 <!-- <input type=button class='no-print' value="Remove Row" onClick="window.location='<?php echo $_SERVER['PHP_SELF']; ?>?admin=true'"> -->
+<input class=btn type=button class='no-print' value="Top" onClick="window.location='#top'">
 <input class=btn type=button class='no-print' value="Logout" onClick="window.location='logout.php'">
 
 <?
@@ -173,7 +158,6 @@ if ($_COOKIE['message']) {
 <? }
 setcookie("message","Lets see what happens.",time()-3600);
 ?>
-
 
 </body>
 </html>
