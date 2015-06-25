@@ -12,7 +12,6 @@ include './settings.php';
 include './functions.php';
 include './submit.php';
 
-
 $aso=$_GET['aso'];
 
 $postdata = http_build_query(
@@ -78,7 +77,8 @@ foreach ($sxe->book as $book) {
 if ($_GET['sort']) {
 	array_sort_by_column($entry, $_GET['sort'],$aso);
 }
-echo "<table id=display_table cellspacing=0 cellpadding=3 ><th>".get_reader_name($api_key,$rid)."</th></table><Br>";
+echo "<table id=display_table cellspacing=0 cellpadding=3 ><th>";
+echo $my_name." (".get_reader_name($api_key,$rid).")</th></table><Br>";
 echo "<table id=display_table cellspacing=0 cellpadding=3 bgcolor=white>";
 echo "<th width=10><a href=./?sort=date&aso=$aso>Date</a></th>";
 echo "<th><a href=./?sort=title&aso=$aso>Title</a></th>";
