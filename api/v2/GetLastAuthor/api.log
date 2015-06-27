@@ -1232,3 +1232,53 @@
 15:06:27 01:05:12 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Roald Dahl</author></entry>
 15:06:27 01:05:12 End GetLastAuthor.
 
+
+15:06:27 01:07:29 Starting GetLastAuthor.
+15:06:27 01:07:29 POST Request has been made.
+15:06:27 01:07:29 Pulling private key.
+15:06:27 01:07:29 Signiture keys match.
+15:06:27 01:07:29 UID 1
+15:06:27 01:07:29 Roald Dahl
+15:06:27 01:07:29 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Roald Dahl</author></entry>
+15:06:27 01:07:29 End GetLastAuthor.
+
+
+15:06:27 01:07:59 Starting GetLastAuthor.
+15:06:27 01:07:59 POST Request has been made.
+15:06:27 01:07:59 Pulling private key.
+15:06:27 01:07:59 Signiture keys match.
+15:06:27 01:07:59 UID 1
+15:06:27 01:07:59 Roald Dahl
+15:06:27 01:07:59 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Roald Dahl</author></entry>
+15:06:27 01:07:59 End GetLastAuthor.
+
+
+15:06:27 01:10:33 Starting GetLastAuthor.
+15:06:27 01:10:33 POST Request has been made.
+15:06:27 01:10:33 Pulling private key.
+15:06:27 01:10:33 Signiture keys match.
+15:06:27 01:10:33 UID 1
+15:06:27 01:10:33 Roald Dahl
+15:06:27 01:10:33 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Roald Dahl</author></entry>
+15:06:27 01:10:33 End GetLastAuthor.
+
+
+15:06:27 01:10:41 Starting GetLastAuthor.
+15:06:27 01:10:41 POST Request has been made.
+15:06:27 01:10:41 Pulling private key.
+15:06:27 01:10:41 Signiture keys match.
+15:06:27 01:10:41 UID 1
+15:06:27 01:10:41 Roald Dahl
+15:06:27 01:10:41 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Roald Dahl</author></entry>
+15:06:27 01:10:41 End GetLastAuthor.
+
+
+15:06:27 01:11:37 Starting GetLastAuthor.
+15:06:27 01:11:37 POST Request has been made.
+15:06:27 01:11:37 Pulling private key.
+15:06:27 01:11:37 Signiture keys match.
+15:06:27 01:11:37 UID 1
+15:06:27 01:11:37 Roald Dahl
+15:06:27 01:11:37 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Roald Dahl</author></entry>
+15:06:27 01:11:37 End GetLastAuthor.
+

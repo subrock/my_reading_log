@@ -618,3 +618,16 @@
 15:06:27 01:05:11 End authentication.
 <?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
 
+
+15:06:27 01:07:55 Starting authentication script.
+15:06:27 01:07:55 POST Request has been made.
+15:06:27 01:07:55 Signiture keys match.
+15:06:27 01:07:55 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:06:27 01:07:55 1
+15:06:27 01:07:55 Student Reading Log
+15:06:27 01:07:55 password
+15:06:27 01:07:55 jeromesch@outlook.com
+15:06:27 01:07:55 User and password sucessful. Writting success XML.
+15:06:27 01:07:55 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
