@@ -73,12 +73,26 @@ foreach ($sxe->book as $book) {
 </head>
 <body style="margin:10;padding:10" alink=silver vlink=navy link=navy onload="load()" bgcolor=#303030>
 <a name=top></a>
+
+
 <?
 if ($_GET['sort']) {
 	array_sort_by_column($entry, $_GET['sort'],$aso);
 }
 echo "<table id=display_table cellspacing=0 cellpadding=3 ><th>";
-echo $my_name." (".get_reader_name($api_key,$rid).")</th></table><Br>";
+echo $my_name." (".get_reader_name($api_key,$rid).")</th></table>";
+?>
+
+<!-- Navigation Bar. Print is disabled. -->
+<Br>
+<input class=btn type=button class='no-print' value="New Entry" onclick="show('entrydiv')">
+<input class=btn type=button class='no-print' value="Print" onClick="window.print();">
+<input class=btn type=button class='no-print' value="Forms" onClick="window.location='forms/'">
+<!-- <input type=button class='no-print' value="Remove Row" onClick="window.location='<?php echo $_SERVER['PHP_SELF']; ?>?admin=true'"> -->
+<input class=btn type=button class='no-print' value="Bottom" onClick="window.location='#bottom'">
+<input class=btn type=button class='no-print' value="Logout" onClick="window.location='logout.php'">
+<Br><Br>
+<?
 echo "<table id=display_table cellspacing=0 cellpadding=3 bgcolor=white>";
 echo "<th width=10><a href=./?sort=date&aso=$aso>Date</a></th>";
 echo "<th><a href=./?sort=title&aso=$aso>Title</a></th>";
@@ -158,7 +172,7 @@ if ($_COOKIE['message']) {
 <? }
 setcookie("message","Lets see what happens.",time()-3600);
 ?>
-
+<a name=bottom></a>
 </body>
 </html>
 
