@@ -1321,3 +1321,133 @@
 15:06:27 01:11:36 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><title>Matilda</title></entry>
 15:06:27 01:11:36 End GetLastTitle.
 
+
+15:06:27 01:13:44 Starting GetLastTitle.
+15:06:27 01:13:44 POST Request has been made.
+15:06:27 01:13:44 Pulling private key.
+15:06:27 01:13:44 Signiture keys match.
+15:06:27 01:13:44 UID 1
+15:06:27 01:13:44 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:27 01:13:44 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><title>Matilda</title></entry>
+15:06:27 01:13:44 End GetLastTitle.
+
+
+15:06:27 01:14:48 Starting GetLastTitle.
+15:06:27 01:14:48 POST Request has been made.
+15:06:27 01:14:48 Pulling private key.
+15:06:27 01:14:48 Signiture keys match.
+15:06:27 01:14:48 UID 1
+15:06:27 01:14:48 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:27 01:14:48 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><title>Matilda</title></entry>
+15:06:27 01:14:48 End GetLastTitle.
+
+
+15:06:27 01:28:32 Starting GetLastTitle.
+15:06:27 01:28:32 POST Request has been made.
+15:06:27 01:28:32 Pulling private key.
+15:06:27 01:28:32 Signiture keys match.
+15:06:27 01:28:32 UID 1
+15:06:27 01:28:32 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:27 01:28:32 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><title>Matilda</title></entry>
+15:06:27 01:28:32 End GetLastTitle.
+
+
+15:06:27 01:28:50 Starting GetLastTitle.
+15:06:27 01:28:50 POST Request has been made.
+15:06:27 01:28:50 Pulling private key.
+15:06:27 01:28:50 Signiture keys match.
+15:06:27 01:28:50 UID 1
+15:06:27 01:28:50 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:27 01:28:50 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><title>Matilda</title></entry>
+15:06:27 01:28:50 End GetLastTitle.
+
+
+15:06:27 01:30:19 Starting GetLastTitle.
+15:06:27 01:30:19 POST Request has been made.
+15:06:27 01:30:19 Pulling private key.
+15:06:27 01:30:19 Signiture keys match.
+15:06:27 01:30:19 UID 19
+15:06:27 01:30:19 select * from EntryTable where entry_reader_id=19 ORDER BY entry_id DESC LIMIT 1
+15:06:27 01:30:19 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><title>test</title></entry>
+15:06:27 01:30:19 End GetLastTitle.
+
+
+15:06:27 01:32:21 Starting GetLastTitle.
+15:06:27 01:32:21 POST Request has been made.
+15:06:27 01:32:21 Pulling private key.
+15:06:27 01:32:21 Signiture keys match.
+15:06:27 01:32:21 UID 19
+15:06:27 01:32:21 select * from EntryTable where entry_reader_id=19 ORDER BY entry_id DESC LIMIT 1
+15:06:27 01:32:21 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><title>test</title></entry>
+15:06:27 01:32:21 End GetLastTitle.
+
+
+15:06:27 01:32:43 Starting GetLastTitle.
+15:06:27 01:32:43 POST Request has been made.
+15:06:27 01:32:43 Pulling private key.
+15:06:27 01:32:43 Signiture keys match.
+15:06:27 01:32:43 UID 26
+15:06:27 01:32:43 select * from EntryTable where entry_reader_id=26 ORDER BY entry_id DESC LIMIT 1
+15:06:27 01:32:43 <?xml version='1.0' standalone='yes'?><entry reader_id='26'><title></title></entry>
+15:06:27 01:32:43 End GetLastTitle.
+
+
+15:06:27 01:33:48 Starting GetLastTitle.
+15:06:27 01:33:48 POST Request has been made.
+15:06:27 01:33:48 Pulling private key.
+15:06:27 01:33:48 Signiture keys match.
+15:06:27 01:33:48 UID 19
+15:06:27 01:33:48 select * from EntryTable where entry_reader_id=19 ORDER BY entry_id DESC LIMIT 1
+15:06:27 01:33:48 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><title>test</title></entry>
+15:06:27 01:33:48 End GetLastTitle.
+
+
+15:06:27 01:34:24 Starting GetLastTitle.
+15:06:27 01:34:24 POST Request has been made.
+15:06:27 01:34:24 Pulling private key.
+15:06:27 01:34:24 Signiture keys match.
+15:06:27 01:34:24 UID 19
+15:06:27 01:34:24 select * from EntryTable where entry_reader_id=19 ORDER BY entry_id DESC LIMIT 1
+15:06:27 01:34:24 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><title>test</title></entry>
+15:06:27 01:34:24 End GetLastTitle.
+
+
+15:06:27 01:34:26 Starting GetLastTitle.
+15:06:27 01:34:26 POST Request has been made.
+15:06:27 01:34:26 Pulling private key.
+15:06:27 01:34:26 Signiture keys match.
+15:06:27 01:34:26 UID 19
+15:06:27 01:34:26 select * from EntryTable where entry_reader_id=19 ORDER BY entry_id DESC LIMIT 1
+15:06:27 01:34:26 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><title>test</title></entry>
+15:06:27 01:34:26 End GetLastTitle.
+
+
+15:06:27 01:34:52 Starting GetLastTitle.
+15:06:27 01:34:52 POST Request has been made.
+15:06:27 01:34:52 Pulling private key.
+15:06:27 01:34:52 Signiture keys match.
+15:06:27 01:34:52 UID 19
+15:06:27 01:34:52 select * from EntryTable where entry_reader_id=19 ORDER BY entry_id DESC LIMIT 1
+15:06:27 01:34:52 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><title>test</title></entry>
+15:06:27 01:34:52 End GetLastTitle.
+
+
+15:06:27 01:35:09 Starting GetLastTitle.
+15:06:27 01:35:09 POST Request has been made.
+15:06:27 01:35:09 Pulling private key.
+15:06:27 01:35:09 Signiture keys match.
+15:06:27 01:35:09 UID 1
+15:06:27 01:35:09 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:27 01:35:09 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><title>Matilda</title></entry>
+15:06:27 01:35:09 End GetLastTitle.
+
+
+15:06:27 01:35:46 Starting GetLastTitle.
+15:06:27 01:35:46 POST Request has been made.
+15:06:27 01:35:46 Pulling private key.
+15:06:27 01:35:46 Signiture keys match.
+15:06:27 01:35:46 UID 1
+15:06:27 01:35:46 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:27 01:35:46 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><title>Matilda</title></entry>
+15:06:27 01:35:46 End GetLastTitle.
+

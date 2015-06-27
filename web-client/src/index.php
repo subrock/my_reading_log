@@ -86,7 +86,14 @@ echo $my_name." (".get_reader_name($api_key,$rid).")</th></table>";
 <!-- Navigation Bar. Print is disabled. -->
 <Br>
 <input class=btn type=button class='no-print' value="New Entry" onclick="show('entrydiv')">
+<?
+$ua = strtolower($_SERVER['HTTP_USER_AGENT']);
+if(stripos($ua,'android') != true) {
+?>
 <input class=btn type=button class='no-print' value="Print" onClick="window.print();">
+<?
+}
+?>
 <!-- <input class=btn type=button class='no-print' value="Forms" onClick="window.location='forms/'"> -->
 <!-- <input type=button class='no-print' value="Remove Row" onClick="window.location='<?php echo $_SERVER['PHP_SELF']; ?>?admin=true'"> -->
 <input class=btn type=button class='no-print' value="Bottom" onClick="window.location='#bottom'">

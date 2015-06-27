@@ -363,3 +363,28 @@
 15:06:26 01:32:44 End RegisterUser.
 <?xml version='1.0' standalone='yes'?><registration><result>Failure</result><id></id><name>My Reading Log</name><reason>User already exists.</reason><email></email></registration>
 
+
+15:06:27 01:29:00 Starting registration script.
+15:06:27 01:29:00 POST Request has been made.
+15:06:27 01:29:00 Signiture keys match.
+15:06:27 01:29:00 User registration faild. User already exists. Writting failure XML.
+15:06:27 01:29:00 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Failure</result><id></id><name>My Reading Log</name><reason>User already exists.</reason><email></email></registration>
+
+
+15:06:27 01:32:35 Starting registration script.
+15:06:27 01:32:35 POST Request has been made.
+15:06:27 01:32:35 Signiture keys match.
+15:06:27 01:32:35 User registration faild. User already exists. Writting failure XML.
+15:06:27 01:32:35 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Failure</result><id></id><name>My Reading Log</name><reason>User already exists.</reason><email></email></registration>
+
+
+15:06:27 01:32:43 Starting registration script.
+15:06:27 01:32:43 POST Request has been made.
+15:06:27 01:32:43 Signiture keys match.
+15:06:27 01:32:43 User does not exist. Creating a new account.
+15:06:27 01:32:43 User registration sucessful. Writting success XML.
+15:06:27 01:32:43 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Sucess</result><id>26</id><name>My Reading Logw</name><email></email></registration>
+
