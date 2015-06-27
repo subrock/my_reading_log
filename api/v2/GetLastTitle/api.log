@@ -1261,3 +1261,13 @@
 15:06:27 12:12:14 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><title>Matilda</title></entry>
 15:06:27 12:12:14 End GetLastTitle.
 
+
+15:06:27 01:05:12 Starting GetLastTitle.
+15:06:27 01:05:12 POST Request has been made.
+15:06:27 01:05:12 Pulling private key.
+15:06:27 01:05:12 Signiture keys match.
+15:06:27 01:05:12 UID 1
+15:06:27 01:05:12 select * from EntryTable where entry_reader_id=1 ORDER BY entry_id DESC LIMIT 1
+15:06:27 01:05:12 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><title>Matilda</title></entry>
+15:06:27 01:05:12 End GetLastTitle.
+

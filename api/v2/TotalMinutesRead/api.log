@@ -4854,3 +4854,33 @@
 15:06:27 12:12:13 End TotalMinutesRead.
 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><minutes>7725</minutes></entry>
 
+
+15:06:27 01:05:11 Starting TotalMinutesRead.
+15:06:27 01:05:11 POST Request has been made.
+15:06:27 01:05:11 Pulling private key.
+15:06:27 01:05:11 Signiture keys match.
+15:06:27 01:05:11 UID 1
+15:06:27 01:05:11 Total Minutes Read: 7725
+15:06:27 01:05:11 End TotalMinutesRead.
+<?xml version='1.0' standalone='yes'?><entry reader_id='1'><minutes>7725</minutes></entry>
+
+
+15:06:27 01:05:11 Starting TotalMinutesRead.
+15:06:27 01:05:12 POST Request has been made.
+15:06:27 01:05:12 Pulling private key.
+15:06:27 01:05:12 Signiture keys match.
+15:06:27 01:05:12 UID 1
+15:06:27 01:05:12 Total Minutes Read: 7725
+15:06:27 01:05:12 End TotalMinutesRead.
+<?xml version='1.0' standalone='yes'?><entry reader_id='1'><minutes>7725</minutes></entry>
+
+
+15:06:27 01:05:12 Starting TotalMinutesRead.
+15:06:27 01:05:12 POST Request has been made.
+15:06:27 01:05:12 Pulling private key.
+15:06:27 01:05:12 Signiture keys match.
+15:06:27 01:05:12 UID 1
+15:06:27 01:05:12 Total Minutes Read: 7725
+15:06:27 01:05:12 End TotalMinutesRead.
+<?xml version='1.0' standalone='yes'?><entry reader_id='1'><minutes>7725</minutes></entry>
+
