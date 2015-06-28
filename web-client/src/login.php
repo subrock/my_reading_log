@@ -72,7 +72,7 @@ Name of your reading log<Br>
 <input type=text name=reader_name size=30 autocomplete="off" value="<? echo $logname; ?>"><Br>
 
 Password of your choosing<br>
-<input type=text name=reader_password size=30 autocomplete="off" value="password" onFocus="this.setSelectionRange(0, this.value.length)" autofocus><Br>
+<input type=password name=reader_password size=30 autocomplete="off" value="password" onFocus="this.setSelectionRange(0, this.value.length)" autofocus><Br>
 
 </td></tr></table>
 <Br><input class=btn type=submit value="Login"> <input class=btn type=button value="Or Register" onClick="window.location='register.php'">

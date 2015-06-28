@@ -84,7 +84,7 @@ echo $my_name." (".get_reader_name($api_key,$rid).")</th></table>";
 ?>
 
 <!-- Navigation Bar. Print is disabled. -->
-<Br>
+<Br class='no-print'>
 <input class=btn type=button class='no-print' value="New Entry" onclick="show('entrydiv')">
 <?
 $ua = strtolower($_SERVER['HTTP_USER_AGENT']);
@@ -99,7 +99,7 @@ if(stripos($ua,'android') != true) {
 <!-- <input type=button class='no-print' value="Remove Row" onClick="window.location='<?php echo $_SERVER['PHP_SELF']; ?>?admin=true'"> -->
 <input class=btn type=button class='no-print' value="Bottom" onClick="window.location='#bottom'">
 <input class=btn type=button class='no-print' value="Logout" onClick="window.location='logout.php'">
-<Br><Br>
+<Br><Br class='no-print'>
 <?
 echo "<table id=display_table cellspacing=0 cellpadding=3 bgcolor=white>";
 echo "<th width=10><a href=./?sort=date&aso=$aso>Date</a></th>";

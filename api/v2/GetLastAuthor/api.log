@@ -1,0 +1,70 @@
+
+15:06:28 02:08:02 Starting GetLastAuthor.
+15:06:28 02:08:02 POST Request has been made.
+15:06:28 02:08:02 Pulling private key.
+15:06:28 02:08:02 Signiture keys match.
+15:06:28 02:08:02 UID 19
+15:06:28 02:08:02 test
+15:06:28 02:08:02 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><author>test</author></entry>
+15:06:28 02:08:02 End GetLastAuthor.
+
+
+15:06:28 02:12:03 Starting GetLastAuthor.
+15:06:28 02:12:03 POST Request has been made.
+15:06:28 02:12:03 Pulling private key.
+15:06:28 02:12:03 Signiture keys match.
+15:06:28 02:12:03 UID 20
+15:06:28 02:12:03 test
+15:06:28 02:12:03 <?xml version='1.0' standalone='yes'?><entry reader_id='20'><author>test</author></entry>
+15:06:28 02:12:03 End GetLastAuthor.
+
+
+15:06:28 02:13:08 Starting GetLastAuthor.
+15:06:28 02:13:08 POST Request has been made.
+15:06:28 02:13:08 Pulling private key.
+15:06:28 02:13:08 Signiture keys match.
+15:06:28 02:13:08 UID 20
+15:06:28 02:13:08 test
+15:06:28 02:13:08 <?xml version='1.0' standalone='yes'?><entry reader_id='20'><author>test</author></entry>
+15:06:28 02:13:08 End GetLastAuthor.
+
+
+15:06:28 02:13:37 Starting GetLastAuthor.
+15:06:28 02:13:37 POST Request has been made.
+15:06:28 02:13:37 Pulling private key.
+15:06:28 02:13:37 Signiture keys match.
+15:06:28 02:13:37 UID 20
+15:06:28 02:13:37 test
+15:06:28 02:13:37 <?xml version='1.0' standalone='yes'?><entry reader_id='20'><author>test</author></entry>
+15:06:28 02:13:37 End GetLastAuthor.
+
+
+15:06:28 02:16:24 Starting GetLastAuthor.
+15:06:28 02:16:25 POST Request has been made.
+15:06:28 02:16:25 Pulling private key.
+15:06:28 02:16:25 Signiture keys match.
+15:06:28 02:16:25 UID 19
+15:06:28 02:16:25 test
+15:06:28 02:16:25 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><author>test</author></entry>
+15:06:28 02:16:25 End GetLastAuthor.
+
+
+15:06:28 02:17:50 Starting GetLastAuthor.
+15:06:28 02:17:50 POST Request has been made.
+15:06:28 02:17:50 Pulling private key.
+15:06:28 02:17:50 Signiture keys match.
+15:06:28 02:17:50 UID 19
+15:06:28 02:17:50 test
+15:06:28 02:17:50 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><author>test</author></entry>
+15:06:28 02:17:50 End GetLastAuthor.
+
+
+15:06:28 02:18:32 Starting GetLastAuthor.
+15:06:28 02:18:32 POST Request has been made.
+15:06:28 02:18:32 Pulling private key.
+15:06:28 02:18:32 Signiture keys match.
+15:06:28 02:18:32 UID 19
+15:06:28 02:18:32 test
+15:06:28 02:18:32 <?xml version='1.0' standalone='yes'?><entry reader_id='19'><author>test</author></entry>
+15:06:28 02:18:32 End GetLastAuthor.
+
