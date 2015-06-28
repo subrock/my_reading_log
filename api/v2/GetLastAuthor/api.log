@@ -1682,3 +1682,23 @@
 15:06:27 08:26:41 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Roald Dahl</author></entry>
 15:06:27 08:26:41 End GetLastAuthor.
 
+
+15:06:27 08:56:40 Starting GetLastAuthor.
+15:06:27 08:56:40 POST Request has been made.
+15:06:27 08:56:40 Pulling private key.
+15:06:27 08:56:40 Signiture keys match.
+15:06:27 08:56:40 UID 1
+15:06:27 08:56:40 Roald Dahl
+15:06:27 08:56:40 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Roald Dahl</author></entry>
+15:06:27 08:56:40 End GetLastAuthor.
+
+
+15:06:27 08:57:06 Starting GetLastAuthor.
+15:06:27 08:57:06 POST Request has been made.
+15:06:27 08:57:06 Pulling private key.
+15:06:27 08:57:06 Signiture keys match.
+15:06:27 08:57:06 UID 1
+15:06:27 08:57:06 Roald Dahl
+15:06:27 08:57:06 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Roald Dahl</author></entry>
+15:06:27 08:57:06 End GetLastAuthor.
+

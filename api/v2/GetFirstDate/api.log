@@ -1933,3 +1933,39 @@
 15:06:27 08:26:40 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><date>2014-02-28</date></entry>
 15:06:27 08:26:40 End GetFirstDate.
 
+
+15:06:27 08:56:39 Starting GetFirstDate.
+15:06:27 08:56:39 POST Request has been made.
+15:06:27 08:56:39 Pulling private key.
+15:06:27 08:56:39 Signiture keys match.
+15:06:27 08:56:39 UID 1
+15:06:27 08:56:39 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><date>2014-02-28</date></entry>
+15:06:27 08:56:39 End GetFirstDate.
+
+
+15:06:27 08:56:39 Starting GetFirstDate.
+15:06:27 08:56:39 POST Request has been made.
+15:06:27 08:56:39 Pulling private key.
+15:06:27 08:56:39 Signiture keys match.
+15:06:27 08:56:39 UID 1
+15:06:27 08:56:39 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><date>2014-02-28</date></entry>
+15:06:27 08:56:39 End GetFirstDate.
+
+
+15:06:27 08:57:05 Starting GetFirstDate.
+15:06:27 08:57:05 POST Request has been made.
+15:06:27 08:57:05 Pulling private key.
+15:06:27 08:57:05 Signiture keys match.
+15:06:27 08:57:05 UID 1
+15:06:27 08:57:05 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><date>2014-02-28</date></entry>
+15:06:27 08:57:05 End GetFirstDate.
+
+
+15:06:27 08:57:05 Starting GetFirstDate.
+15:06:27 08:57:05 POST Request has been made.
+15:06:27 08:57:05 Pulling private key.
+15:06:27 08:57:05 Signiture keys match.
+15:06:27 08:57:05 UID 1
+15:06:27 08:57:05 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><date>2014-02-28</date></entry>
+15:06:27 08:57:05 End GetFirstDate.
+

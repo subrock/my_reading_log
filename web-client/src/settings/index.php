@@ -8,7 +8,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 $api_uri=$_POST['api_uri'];
 setcookie("api_uri",$api_uri,time()+3600,"/");
 setcookie("message","API URI has been set to;<Br>".$api_uri, time() + 30,"/");
-header('Location: ../');
+header('Location: ../logout.php');
 } else { // If no selection display options.
 
 ?>
