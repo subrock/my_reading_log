@@ -27,10 +27,10 @@ header('Location: ../logout.php');
 Select an API server to point to.</th>
 <tr><td>
 API Destination URL:<br>
-<select name=api_uri>
-<option><? echo $api_url; ?></option>
-<option>http://read.lendmyvoice.net/api/v2</option>
-<option>http://jerome.lendmyvoice.org/my-reading-log/api/v2</option>
+<select name=api_uri style='font-size: 20px;'>
+<option value=<? echo $api_url; ?>><? echo $api_url; ?></option>
+<option value=http://read.lendmyvoice.net/api/v2>US WEST</option>
+<option value=http://jerome.lendmyvoice.org/my-reading-log/api/v2>US NORTHWEST</option>
 
 </td></tr></table>
 <Br><input class=btn type=submit value="Save"> 

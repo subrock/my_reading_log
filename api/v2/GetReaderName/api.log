@@ -2049,3 +2049,66 @@
 15:06:27 08:57:05 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
 15:06:27 08:57:05 End GetReaderName.
 
+
+15:06:27 08:58:28 Starting GetReaderName.
+15:06:27 08:58:28 POST Request has been made.
+15:06:27 08:58:28 Pulling private key.
+15:06:27 08:58:28 Signiture keys match.
+15:06:27 08:58:28 UID 1
+15:06:27 08:58:29 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:27 08:58:29 End GetReaderName.
+
+
+15:06:27 08:58:39 Starting GetReaderName.
+15:06:27 08:58:39 POST Request has been made.
+15:06:27 08:58:39 Pulling private key.
+15:06:27 08:58:39 Signiture keys match.
+15:06:27 08:58:39 UID 1
+15:06:27 08:58:39 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:27 08:58:39 End GetReaderName.
+
+
+15:06:27 09:41:29 Starting GetReaderName.
+15:06:27 09:41:29 POST Request has been made.
+15:06:27 09:41:29 Pulling private key.
+15:06:27 09:41:29 Signiture keys match.
+15:06:27 09:41:29 UID 1
+15:06:27 09:41:29 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:27 09:41:29 End GetReaderName.
+
+
+15:06:27 09:43:03 Starting GetReaderName.
+15:06:27 09:43:03 POST Request has been made.
+15:06:27 09:43:03 Pulling private key.
+15:06:27 09:43:03 Signiture keys match.
+15:06:27 09:43:03 UID 1
+15:06:27 09:43:04 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:27 09:43:04 End GetReaderName.
+
+
+15:06:27 10:12:38 Starting GetReaderName.
+15:06:27 10:12:38 POST Request has been made.
+15:06:27 10:12:39 Pulling private key.
+15:06:27 10:12:39 Signiture keys match.
+15:06:27 10:12:39 UID 1
+15:06:27 10:12:39 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:27 10:12:39 End GetReaderName.
+
+
+15:06:27 10:13:36 Starting GetReaderName.
+15:06:27 10:13:36 POST Request has been made.
+15:06:27 10:13:36 Pulling private key.
+15:06:27 10:13:36 Signiture keys match.
+15:06:27 10:13:36 UID 1
+15:06:27 10:13:36 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:27 10:13:36 End GetReaderName.
+
+
+15:06:27 11:10:46 Starting GetReaderName.
+15:06:27 11:10:46 POST Request has been made.
+15:06:27 11:10:46 Pulling private key.
+15:06:27 11:10:46 Signiture keys match.
+15:06:27 11:10:46 UID 1
+15:06:27 11:10:46 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:27 11:10:46 End GetReaderName.
+
