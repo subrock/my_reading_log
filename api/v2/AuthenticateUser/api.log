@@ -865,3 +865,81 @@
 15:06:27 11:10:46 End authentication.
 <?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
 
+
+15:06:27 11:48:39 Starting authentication script.
+15:06:27 11:48:39 POST Request has been made.
+15:06:27 11:48:39 Signiture keys match.
+15:06:27 11:48:39 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:06:27 11:48:40 1
+15:06:27 11:48:40 Student Reading Log
+15:06:27 11:48:40 password
+15:06:27 11:48:40 jeromesch@outlook.com
+15:06:27 11:48:40 User and password sucessful. Writting success XML.
+15:06:27 11:48:40 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:06:28 12:49:54 Starting authentication script.
+15:06:28 12:49:54 POST Request has been made.
+15:06:28 12:49:54 Signiture keys match.
+15:06:28 12:49:54 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:06:28 12:49:54 1
+15:06:28 12:49:54 Student Reading Log
+15:06:28 12:49:54 password
+15:06:28 12:49:54 jeromesch@outlook.com
+15:06:28 12:49:54 User and password sucessful. Writting success XML.
+15:06:28 12:49:54 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:06:28 12:57:44 Starting authentication script.
+15:06:28 12:57:44 POST Request has been made.
+15:06:28 12:57:44 Signiture keys match.
+15:06:28 12:57:44 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:06:28 12:57:44 1
+15:06:28 12:57:44 Student Reading Log
+15:06:28 12:57:44 password
+15:06:28 12:57:44 jeromesch@outlook.com
+15:06:28 12:57:44 User and password sucessful. Writting success XML.
+15:06:28 12:57:44 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:06:28 01:22:03 Starting authentication script.
+15:06:28 01:22:03 POST Request has been made.
+15:06:28 01:22:03 Signiture keys match.
+15:06:28 01:22:03 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:06:28 01:22:03 1
+15:06:28 01:22:03 Student Reading Log
+15:06:28 01:22:03 password
+15:06:28 01:22:03 jeromesch@outlook.com
+15:06:28 01:22:03 User and password sucessful. Writting success XML.
+15:06:28 01:22:03 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:06:28 12:58:23 Starting authentication script.
+15:06:28 12:58:23 POST Request has been made.
+15:06:28 12:58:23 Signiture keys match.
+15:06:28 12:58:23 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:06:28 12:58:23 1
+15:06:28 12:58:23 Student Reading Log
+15:06:28 12:58:23 password
+15:06:28 12:58:23 jeromesch@outlook.com
+15:06:28 12:58:23 User and password sucessful. Writting success XML.
+15:06:28 12:58:23 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:06:28 12:58:58 Starting authentication script.
+15:06:28 12:58:58 POST Request has been made.
+15:06:28 12:58:58 Signiture keys match.
+15:06:28 12:58:58 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:06:28 12:58:58 1
+15:06:28 12:58:58 Student Reading Log
+15:06:28 12:58:58 password
+15:06:28 12:58:58 jeromesch@outlook.com
+15:06:28 12:58:58 User and password sucessful. Writting success XML.
+15:06:28 12:58:58 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+

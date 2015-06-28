@@ -114,7 +114,7 @@ echo "<th><a href=./?sort=pages&aso=$aso>Pages</a></th>";
 foreach ($entry as $v1) {
    echo "<tr class=str>";
 while (list($key, $value) = each($v1)) {
-   echo "<td>".$value."</td>";
+   echo "<td nowrap>".$value."</td>";
 }
 }
 echo "</table><br>";
