@@ -1,6 +1,10 @@
 <?
 
 include './settings.php';
+$logname=$_COOKIE['logname'];
+if ($logname == "") {
+	$logname="My Reading Log";
+}
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 	include './functions.php';
@@ -25,7 +29,6 @@ $opts = array('http' =>
 
 $context = stream_context_create($opts);
 
-	//$homepage = file_get_contents($api_url."/RegisterUser/?signiture=".urlencode($api_key)."&user=$reg_user&password=$reg_pass&email=$reg_mail",false,$context);
 	$homepage = file_get_contents($api_url."/AuthenticateUser/",false,$context);
 	try {
   		$sxe = new SimpleXMLElement($homepage);
@@ -36,10 +39,11 @@ $context = stream_context_create($opts);
 
 	$res = $sxe->{"result"};
 	$reader_id = $sxe->{"id"};
-
+	$reg_user = $sxe->{"name"};
 	if ($res == "Sucess") {
                 setAuthenticationCookie($reader_id);
                 setcookie("message","Authentication successful.", time() + 30, '/');
+                setcookie("logname",$reg_user, time() + 3000, '/');
 		header('Location: ./');	
 	} else {
 		$res = $sxe->{"reason"};
@@ -65,10 +69,10 @@ Enter your special secret to authenticate.</th>
 <tr><td>
 
 Name of your reading log<Br>
-<input type=text name=reader_name size=30 autocomplete="off" value="Student Reading Log"><Br>
+<input type=text name=reader_name size=30 autocomplete="off" value="<? echo $logname; ?>"><Br>
 
 Password of your choosing<br>
-<input type=text name=reader_password size=30 autocomplete="off" value="password"><Br>
+<input type=text name=reader_password size=30 autocomplete="off" value="password" onFocus="this.setSelectionRange(0, this.value.length)" autofocus><Br>
 
 </td></tr></table>
 <Br><input class=btn type=submit value="Authenticate"> <a href=register.php>Or register here.</a>
