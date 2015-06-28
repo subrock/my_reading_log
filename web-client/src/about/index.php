@@ -1,5 +1,6 @@
 <?
 include '../settings.php';
+?>
 
 <html>
 <head>
