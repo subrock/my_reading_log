@@ -26,7 +26,7 @@ header('Location: ../');
 <table id=display_table cellspacing=0 cellpadding=25 bgcolor=white><th>
 Select an API server to point to.</th>
 <tr><td>
-
+API Destination URL:<br>
 <select name=api_uri>
 <option><? echo $api_url; ?></option>
 <option>http://read.lendmyvoice.net/api/v2</option>
