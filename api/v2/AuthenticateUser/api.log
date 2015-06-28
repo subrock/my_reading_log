@@ -943,3 +943,42 @@
 15:06:28 12:58:58 End authentication.
 <?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
 
+
+15:06:28 01:00:42 Starting authentication script.
+15:06:28 01:00:42 POST Request has been made.
+15:06:28 01:00:42 Signiture keys match.
+15:06:28 01:00:42 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:06:28 01:00:42 1
+15:06:28 01:00:42 Student Reading Log
+15:06:28 01:00:42 password
+15:06:28 01:00:42 jeromesch@outlook.com
+15:06:28 01:00:42 User and password sucessful. Writting success XML.
+15:06:28 01:00:42 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:06:28 01:05:45 Starting authentication script.
+15:06:28 01:05:45 POST Request has been made.
+15:06:28 01:05:45 Signiture keys match.
+15:06:28 01:05:45 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:06:28 01:05:45 1
+15:06:28 01:05:45 Student Reading Log
+15:06:28 01:05:45 password
+15:06:28 01:05:45 jeromesch@outlook.com
+15:06:28 01:05:45 User and password sucessful. Writting success XML.
+15:06:28 01:05:45 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:06:28 01:08:29 Starting authentication script.
+15:06:28 01:08:29 POST Request has been made.
+15:06:28 01:08:29 Signiture keys match.
+15:06:28 01:08:29 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:06:28 01:08:29 1
+15:06:28 01:08:29 Student Reading Log
+15:06:28 01:08:29 password
+15:06:28 01:08:29 jeromesch@outlook.com
+15:06:28 01:08:29 User and password sucessful. Writting success XML.
+15:06:28 01:08:29 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+

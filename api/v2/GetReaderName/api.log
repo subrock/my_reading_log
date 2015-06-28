@@ -2400,3 +2400,48 @@
 15:06:28 12:58:58 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
 15:06:28 12:58:58 End GetReaderName.
 
+
+15:06:28 01:00:42 Starting GetReaderName.
+15:06:28 01:00:43 POST Request has been made.
+15:06:28 01:00:43 Pulling private key.
+15:06:28 01:00:43 Signiture keys match.
+15:06:28 01:00:43 UID 1
+15:06:28 01:00:43 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:28 01:00:43 End GetReaderName.
+
+
+15:06:28 01:03:32 Starting GetReaderName.
+15:06:28 01:03:32 POST Request has been made.
+15:06:28 01:03:32 Pulling private key.
+15:06:28 01:03:32 Signiture keys match.
+15:06:28 01:03:32 UID 1
+15:06:28 01:03:32 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:28 01:03:32 End GetReaderName.
+
+
+15:06:28 01:05:45 Starting GetReaderName.
+15:06:28 01:05:45 POST Request has been made.
+15:06:28 01:05:45 Pulling private key.
+15:06:28 01:05:45 Signiture keys match.
+15:06:28 01:05:45 UID 1
+15:06:28 01:05:45 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:28 01:05:45 End GetReaderName.
+
+
+15:06:28 01:06:44 Starting GetReaderName.
+15:06:28 01:06:44 POST Request has been made.
+15:06:28 01:06:44 Pulling private key.
+15:06:28 01:06:44 Signiture keys match.
+15:06:28 01:06:44 UID 1
+15:06:28 01:06:44 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:28 01:06:44 End GetReaderName.
+
+
+15:06:28 01:08:29 Starting GetReaderName.
+15:06:28 01:08:29 POST Request has been made.
+15:06:28 01:08:29 Pulling private key.
+15:06:28 01:08:29 Signiture keys match.
+15:06:28 01:08:29 UID 1
+15:06:28 01:08:29 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><reader_name>Student Reading Log</reader_name></entry>
+15:06:28 01:08:29 End GetReaderName.
+
