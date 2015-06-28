@@ -74,7 +74,7 @@ Email<br>
 <input type=text name=reader_email size=30 autocomplete="off">
 </td></tr></table>
 <Br>
-<input class=btn type=submit value="Continue"> <a href=login.php>Or login here.</a>
+<input class=btn type=submit value="Register"> <input class=btn type=button value="Or Login" onClick="window.location='login.php'">
 </form>
 
 <?

@@ -75,7 +75,7 @@ Password of your choosing<br>
 <input type=text name=reader_password size=30 autocomplete="off" value="password" onFocus="this.setSelectionRange(0, this.value.length)" autofocus><Br>
 
 </td></tr></table>
-<Br><input class=btn type=submit value="Authenticate"> <a href=register.php>Or register here.</a>
+<Br><input class=btn type=submit value="Login"> <input class=btn type=button value="Or Register" onClick="window.location='register.php'">
 </form>
 
 <?
