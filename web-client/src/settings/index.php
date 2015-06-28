@@ -1,52 +1,15 @@
 <?
 
+include '../settings.php';
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-	include './functions.php';
-	include './settings.php';
-	$reg_user=$_POST['reader_name'];
-	$reg_pass=$_POST['reader_password'];
 
-$postdata = http_build_query(
-    array(
-        'signiture' => $api_key,
-        'user' => $reg_user,
-        'password' => $reg_pass
-    )
-);
-
-$opts = array('http' =>
-    array(
-        'method'  => 'POST',
-        'header'  => 'Content-type: application/x-www-form-urlencoded',
-        'content' => $postdata
-    )
-);
-
-$context = stream_context_create($opts);
-
-	//$homepage = file_get_contents($api_url."/RegisterUser/?signiture=".urlencode($api_key)."&user=$reg_user&password=$reg_pass&email=$reg_mail",false,$context);
-	$homepage = file_get_contents($api_url."/AuthenticateUser/",false,$context);
-	try {
-  		$sxe = new SimpleXMLElement($homepage);
-	} catch (Exception $e) {
-  		echo "An Error Occured. Usually no XML response. Which means Key failed or error on API side.";
-  		exit;
-	} // End XML check/error.
-
-	$res = $sxe->{"result"};
-	$reader_id = $sxe->{"id"};
-
-	if ($res == "Sucess") {
-                setAuthenticationCookie($reader_id);
-                setcookie("message","Authentication successful.", time() + 30, '/');
-		header('Location: ./');	
-	} else {
-		$res = $sxe->{"reason"};
-                setcookie("message","Authentication faild. $res", time() + 30, '/');
-		header('Location: ./login.php');
-	}
-} else { // If no login post, display registration page.
+// Set API cookie here.
+$api_uri=$_POST['api_uri'];
+setcookie("api_uri",$api_uri,time()+3600,"/");
+setcookie("message","API URI has been set to;<Br>".$api_uri, time() + 30,"/");
+header('Location: ../');
+} else { // If no selection display options.
 
 ?>
 
@@ -64,8 +27,9 @@ $context = stream_context_create($opts);
 Select an API server to point to.</th>
 <tr><td>
 
-<select name=apiuri>
-<option>http://read.lendmyvoice.org/api/v2</option>
+<select name=api_uri>
+<option><? echo $_GET['api_uri']; ?></option>
+<option>http://read.lendmyvoice.net/api/v2</option>
 <option>http://jerome.lendmyvoice.org/my-reading-log/api/v2</option>
 
 </td></tr></table>
@@ -73,6 +37,7 @@ Select an API server to point to.</th>
 </form>
 
 <?
+echo "API: ".$api_url;
 // Process messages and then clear them.
 if ($_COOKIE['message']) {
 ?>
