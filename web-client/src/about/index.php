@@ -9,6 +9,8 @@
 <tr>
 <Td><font face=Verdana>
 My Reading Log is an application that allows you to keep track of a students reading progress. It also provides useful metrics allowing educators to quickly evaluate a students progress. 
+<br><Br>
+API: <? echo $api_url; ?>
 </td>
 </tr>
 </table>
