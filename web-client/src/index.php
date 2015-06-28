@@ -177,7 +177,7 @@ echo "<input class=btn type=button value=Cancel onclick=hide('entrydiv')>";
 echo "</div>";
 echo "</form>";
 
-
+echo "API: ".$api_uri;
 
 // Process messages and then clear them.
 if ($_COOKIE['message']) {
