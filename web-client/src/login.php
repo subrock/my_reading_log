@@ -1,9 +1,9 @@
 <?
 
+include './settings.php';
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 	include './functions.php';
-	include './settings.php';
 	$reg_user=$_POST['reader_name'];
 	$reg_pass=$_POST['reader_password'];
 
@@ -30,7 +30,7 @@ $context = stream_context_create($opts);
 	try {
   		$sxe = new SimpleXMLElement($homepage);
 	} catch (Exception $e) {
-  		echo "An Error Occured. Usually no XML response. Which means Key failed or error on API side.";
+  		echo "An Error Occured. Usually no XML response. Which means Key failed or error with the API url.<Br>";
   		exit;
 	} // End XML check/error.
 
@@ -88,5 +88,6 @@ setcookie("message","Lets see what happens.",time()-3600);
 </html>
 
 <?
+echo "API: ".$api_url;
 } // End check for login post.
 ?>

@@ -28,7 +28,7 @@ Select an API server to point to.</th>
 <tr><td>
 
 <select name=api_uri>
-<option><? echo $_GET['api_uri']; ?></option>
+<option><? echo $api_url; ?></option>
 <option>http://read.lendmyvoice.net/api/v2</option>
 <option>http://jerome.lendmyvoice.org/my-reading-log/api/v2</option>
 
