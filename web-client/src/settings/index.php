@@ -37,7 +37,6 @@ Select an API server to point to.</th>
 </form>
 
 <?
-echo "API: ".$api_url;
 // Process messages and then clear them.
 if ($_COOKIE['message']) {
 ?>
