@@ -88,6 +88,5 @@ setcookie("message","Lets see what happens.",time()-3600);
 </html>
 
 <?
-echo "API: ".$api_url;
 } // End check for login post.
 ?>
