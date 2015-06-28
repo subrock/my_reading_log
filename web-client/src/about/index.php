@@ -9,7 +9,7 @@ include '../settings.php';
 <Br><Br>
 <center><h1>My Reading Log for Android</h1>
 
-<table width=500>
+<table width=400>
 <tr>
 <Td><font face=Verdana>
 My Reading Log is an application that allows you to keep track of a students reading progress. It also provides useful metrics allowing educators to quickly evaluate a students progress. 
