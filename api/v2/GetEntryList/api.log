@@ -2465,3 +2465,12 @@
 15:06:27 08:24:50 250 records returned.
 15:06:27 08:24:50 End GetEntryList.
 
+
+15:06:27 08:26:39 Starting GetEntryList.
+15:06:27 08:26:39 POST Request has been made.
+15:06:27 08:26:39 Pulling private key.
+15:06:27 08:26:39 Signiture keys match.
+15:06:27 08:26:39 UID 1
+15:06:27 08:26:39 250 records returned.
+15:06:27 08:26:39 End GetEntryList.
+

@@ -6,7 +6,7 @@ include '../settings.php';
 <head>
 </head>
 <body style="margin:10;padding:10" alink=silver text=white vlink=navy link=navy onload="load()" bgcolor=#303030>
-<Br><Br>
+<Br>
 <center><h1>My Reading Log for Android</h1>
 
 <table width=500>
