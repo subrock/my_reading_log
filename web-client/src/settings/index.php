@@ -29,7 +29,7 @@ Select an API server to point to.</th>
 API Destination URL:<br>
 <select name=api_uri style='font-size: 20px;'>
 <option value=<? echo $api_url; ?>><? echo $api_url; ?></option>
-<option value=http://read.lendmyvoice.net/api/v2>US WEST</option>
+<option value=http://readapi.lendmyvoice.net>US WEST</option>
 <option value=http://jerome.lendmyvoice.org/my-reading-log/api/v2>US NORTHWEST</option>
 
 </td></tr></table>

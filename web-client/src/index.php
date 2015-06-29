@@ -35,7 +35,7 @@ $homepage = file_get_contents($api_url."/GetEntryList/",false,$context);
 try { 
   $sxe = new SimpleXMLElement($homepage); 
 } catch (Exception $e) { 
-echo "An Error Occured. Usually no XML response. Which means Key failed or error on API side.<Br><Br><pre>$e</pre>";
+echo "An Error Occured. Usually no XML response. Which means Key failed or error on API side.<Br><Br><pre>$e</pre>$api_url";
   exit; 
 } 
 

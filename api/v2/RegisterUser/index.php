@@ -65,7 +65,7 @@ if (strcmp($api_sign, $api_key) == 0) {
                 exit;
         } else {
                 // Build XML for a Failure response.
-		writeToLog("User registration faild. User already exists. Writting failure XML.");
+		writeToLog("User registration failed. User already exists. Writting failure XML.");
 		header("Content-type: text/xml");
                 $xml = "<?xml version='1.0' standalone='yes'?>";
                 $xml = $xml . "<registration>";

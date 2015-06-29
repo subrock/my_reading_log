@@ -45,7 +45,7 @@ $context = stream_context_create($opts);
 		header('Location: ./');	
 	} else {
 		$res = $sxe->{"reason"};
-                setcookie("message","Registration faild. $res", time() + 30, '/');
+                setcookie("message","Registration failed. $res", time() + 30, '/');
 		header('Location: ./register.php');
 	}
 } else { // If no login post, display registration page.

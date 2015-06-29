@@ -33,7 +33,7 @@ $context = stream_context_create($opts);
 	try {
   		$sxe = new SimpleXMLElement($homepage);
 	} catch (Exception $e) {
-  		echo "An Error Occured. Usually no XML response. Which means Key failed or error with the API url.<Br>";
+		echo "An Error Occured. Usually no XML response. Which means Key failed or error on API side.<Br><Br><pre>$e</pre>$api_url";
   		exit;
 	} // End XML check/error.
 
@@ -47,7 +47,7 @@ $context = stream_context_create($opts);
 		header('Location: ./');	
 	} else {
 		$res = $sxe->{"reason"};
-                setcookie("message","Authentication faild. $res", time() + 30, '/');
+                setcookie("message","Authentication failed. $res", time() + 30, '/');
 		header('Location: ./login.php');
 	}
 } else { // If no login post, display registration page.
