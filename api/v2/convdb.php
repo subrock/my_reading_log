@@ -49,8 +49,10 @@ echo "Complete.";
 <body>
 
 <form name="convert" action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST">
+<input name=user type=text size=5> 
 <input name=conv type=submit value=Convert>
 </form>
+<Br>
 
 
 

@@ -14,3 +14,30 @@
 15:06:29 02:28:10 End RegisterUser.
 <?xml version='1.0' standalone='yes'?><registration><result>Failure</result><id></id><name>My Reading Log</name><reason>User already exists.</reason><email></email></registration>
 
+
+15:06:30 10:54:01 Starting registration script.
+15:06:30 10:54:01 POST Request has been made.
+15:06:30 10:54:01 Signiture keys match.
+15:06:30 10:54:01 User does not exist. Creating a new account.
+15:06:30 10:54:01 User registration sucessful. Writting success XML.
+15:06:30 10:54:01 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Sucess</result><id>1010</id><name>Jerome Log</name><email>subrock@gmail.com</email></registration>
+
+
+15:07:01 08:31:20 Starting registration script.
+15:07:01 08:31:20 POST Request has been made.
+15:07:01 08:31:20 Signiture keys match.
+15:07:01 08:31:20 User does not exist. Creating a new account.
+15:07:01 08:31:20 User registration sucessful. Writting success XML.
+15:07:01 08:31:20 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Sucess</result><id>1011</id><name>My Reading Logq</name><email></email></registration>
+
+
+15:07:02 11:00:40 Starting registration script.
+15:07:02 11:00:40 POST Request has been made.
+15:07:02 11:00:40 Signiture keys match.
+15:07:02 11:00:40 User does not exist. Creating a new account.
+15:07:02 11:00:40 User registration sucessful. Writting success XML.
+15:07:02 11:00:40 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></registration>
+
