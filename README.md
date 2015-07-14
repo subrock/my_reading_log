@@ -6,6 +6,7 @@ This is a simple reading log for multiple students to keep track and communicate
 
 
 TODO:
+=====
 
 * Add FireTV and Roku support.
 * Centralize DB connection information at the api. 
