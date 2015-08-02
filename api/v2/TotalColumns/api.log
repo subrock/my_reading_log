@@ -1578,3 +1578,603 @@
 15:07:14 12:00:24 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
 15:07:14 12:00:24 End TotalColumns.
 
+
+15:07:14 12:03:48 Starting TotalColumns.
+15:07:14 12:03:48 POST Request has been made.
+15:07:14 12:03:48 Column: entry_title
+15:07:14 12:03:48 Pulling private key.
+15:07:14 12:03:48 Signiture keys match.
+15:07:14 12:03:48 UID 27
+15:07:14 12:03:48 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:14 12:03:48 End TotalColumns.
+
+
+15:07:14 12:03:48 Starting TotalColumns.
+15:07:14 12:03:48 POST Request has been made.
+15:07:14 12:03:48 Column: entry_author
+15:07:14 12:03:48 Pulling private key.
+15:07:14 12:03:48 Signiture keys match.
+15:07:14 12:03:48 UID 27
+15:07:14 12:03:48 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:14 12:03:48 End TotalColumns.
+
+
+15:07:14 12:04:05 Starting TotalColumns.
+15:07:14 12:04:05 POST Request has been made.
+15:07:14 12:04:05 Column: entry_title
+15:07:14 12:04:05 Pulling private key.
+15:07:14 12:04:05 Signiture keys match.
+15:07:14 12:04:05 UID 27
+15:07:14 12:04:05 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:14 12:04:05 End TotalColumns.
+
+
+15:07:14 12:04:05 Starting TotalColumns.
+15:07:14 12:04:05 POST Request has been made.
+15:07:14 12:04:05 Column: entry_author
+15:07:14 12:04:05 Pulling private key.
+15:07:14 12:04:05 Signiture keys match.
+15:07:14 12:04:05 UID 27
+15:07:14 12:04:05 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:14 12:04:05 End TotalColumns.
+
+
+15:07:15 01:20:20 Starting TotalColumns.
+15:07:15 01:20:20 POST Request has been made.
+15:07:15 01:20:20 Column: entry_title
+15:07:15 01:20:20 Pulling private key.
+15:07:15 01:20:20 Signiture keys match.
+15:07:15 01:20:20 UID 27
+15:07:15 01:20:20 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:15 01:20:20 End TotalColumns.
+
+
+15:07:15 01:20:20 Starting TotalColumns.
+15:07:15 01:20:20 POST Request has been made.
+15:07:15 01:20:20 Column: entry_author
+15:07:15 01:20:20 Pulling private key.
+15:07:15 01:20:20 Signiture keys match.
+15:07:15 01:20:20 UID 27
+15:07:15 01:20:20 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:15 01:20:20 End TotalColumns.
+
+
+15:07:15 01:20:47 Starting TotalColumns.
+15:07:15 01:20:47 POST Request has been made.
+15:07:15 01:20:47 Column: entry_title
+15:07:15 01:20:47 Pulling private key.
+15:07:15 01:20:47 Signiture keys match.
+15:07:15 01:20:47 UID 27
+15:07:15 01:20:47 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:15 01:20:47 End TotalColumns.
+
+
+15:07:15 01:20:47 Starting TotalColumns.
+15:07:15 01:20:47 POST Request has been made.
+15:07:15 01:20:47 Column: entry_author
+15:07:15 01:20:47 Pulling private key.
+15:07:15 01:20:47 Signiture keys match.
+15:07:15 01:20:47 UID 27
+15:07:15 01:20:47 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:15 01:20:47 End TotalColumns.
+
+
+15:07:16 04:55:57 Starting TotalColumns.
+15:07:16 04:55:57 POST Request has been made.
+15:07:16 04:55:57 Column: entry_title
+15:07:16 04:55:57 Pulling private key.
+15:07:16 04:55:57 Signiture keys match.
+15:07:16 04:55:57 UID 1
+15:07:16 04:55:57 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><records>29</records></entry>
+15:07:16 04:55:57 End TotalColumns.
+
+
+15:07:16 04:55:57 Starting TotalColumns.
+15:07:16 04:55:57 POST Request has been made.
+15:07:16 04:55:57 Column: entry_author
+15:07:16 04:55:57 Pulling private key.
+15:07:16 04:55:57 Signiture keys match.
+15:07:16 04:55:57 UID 1
+15:07:16 04:55:57 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><records>18</records></entry>
+15:07:16 04:55:57 End TotalColumns.
+
+
+15:07:16 01:49:22 Starting TotalColumns.
+15:07:16 01:49:22 POST Request has been made.
+15:07:16 01:49:22 Column: entry_title
+15:07:16 01:49:22 Pulling private key.
+15:07:16 01:49:22 Signiture keys match.
+15:07:16 01:49:22 UID 27
+15:07:16 01:49:22 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:16 01:49:22 End TotalColumns.
+
+
+15:07:16 01:49:22 Starting TotalColumns.
+15:07:16 01:49:22 POST Request has been made.
+15:07:16 01:49:22 Column: entry_author
+15:07:16 01:49:22 Pulling private key.
+15:07:16 01:49:22 Signiture keys match.
+15:07:16 01:49:22 UID 27
+15:07:16 01:49:22 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:16 01:49:22 End TotalColumns.
+
+
+15:07:17 12:18:36 Starting TotalColumns.
+15:07:17 12:18:36 POST Request has been made.
+15:07:17 12:18:36 Column: entry_title
+15:07:17 12:18:36 Pulling private key.
+15:07:17 12:18:36 Signiture keys match.
+15:07:17 12:18:36 UID 27
+15:07:17 12:18:36 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:17 12:18:36 End TotalColumns.
+
+
+15:07:17 12:18:36 Starting TotalColumns.
+15:07:17 12:18:36 POST Request has been made.
+15:07:17 12:18:36 Column: entry_author
+15:07:17 12:18:36 Pulling private key.
+15:07:17 12:18:36 Signiture keys match.
+15:07:17 12:18:36 UID 27
+15:07:17 12:18:36 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:17 12:18:36 End TotalColumns.
+
+
+15:07:17 12:19:57 Starting TotalColumns.
+15:07:17 12:19:57 POST Request has been made.
+15:07:17 12:19:57 Column: entry_title
+15:07:17 12:19:57 Pulling private key.
+15:07:17 12:19:57 Signiture keys match.
+15:07:17 12:19:57 UID 27
+15:07:17 12:19:57 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:17 12:19:57 End TotalColumns.
+
+
+15:07:17 12:19:58 Starting TotalColumns.
+15:07:17 12:19:58 POST Request has been made.
+15:07:17 12:19:58 Column: entry_author
+15:07:17 12:19:58 Pulling private key.
+15:07:17 12:19:58 Signiture keys match.
+15:07:17 12:19:58 UID 27
+15:07:17 12:19:58 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:17 12:19:58 End TotalColumns.
+
+
+15:07:17 12:20:36 Starting TotalColumns.
+15:07:17 12:20:36 POST Request has been made.
+15:07:17 12:20:36 Column: entry_title
+15:07:17 12:20:36 Pulling private key.
+15:07:17 12:20:36 Signiture keys match.
+15:07:17 12:20:36 UID 27
+15:07:17 12:20:36 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:17 12:20:36 End TotalColumns.
+
+
+15:07:17 12:20:36 Starting TotalColumns.
+15:07:17 12:20:36 POST Request has been made.
+15:07:17 12:20:36 Column: entry_author
+15:07:17 12:20:36 Pulling private key.
+15:07:17 12:20:36 Signiture keys match.
+15:07:17 12:20:36 UID 27
+15:07:17 12:20:36 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:17 12:20:36 End TotalColumns.
+
+
+15:07:17 12:21:08 Starting TotalColumns.
+15:07:17 12:21:08 POST Request has been made.
+15:07:17 12:21:08 Column: entry_title
+15:07:17 12:21:08 Pulling private key.
+15:07:17 12:21:08 Signiture keys match.
+15:07:17 12:21:08 UID 27
+15:07:17 12:21:08 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:17 12:21:08 End TotalColumns.
+
+
+15:07:17 12:21:08 Starting TotalColumns.
+15:07:17 12:21:08 POST Request has been made.
+15:07:17 12:21:08 Column: entry_author
+15:07:17 12:21:08 Pulling private key.
+15:07:17 12:21:08 Signiture keys match.
+15:07:17 12:21:08 UID 27
+15:07:17 12:21:08 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:17 12:21:08 End TotalColumns.
+
+
+15:07:17 10:36:16 Starting TotalColumns.
+15:07:17 10:36:16 POST Request has been made.
+15:07:17 10:36:16 Column: entry_title
+15:07:17 10:36:16 Pulling private key.
+15:07:17 10:36:16 Signiture keys match.
+15:07:17 10:36:16 UID 27
+15:07:17 10:36:16 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:17 10:36:16 End TotalColumns.
+
+
+15:07:17 10:36:16 Starting TotalColumns.
+15:07:17 10:36:16 POST Request has been made.
+15:07:17 10:36:16 Column: entry_author
+15:07:17 10:36:16 Pulling private key.
+15:07:17 10:36:16 Signiture keys match.
+15:07:17 10:36:16 UID 27
+15:07:17 10:36:16 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:17 10:36:16 End TotalColumns.
+
+
+15:07:17 10:36:42 Starting TotalColumns.
+15:07:17 10:36:42 POST Request has been made.
+15:07:17 10:36:42 Column: entry_title
+15:07:17 10:36:42 Pulling private key.
+15:07:17 10:36:42 Signiture keys match.
+15:07:17 10:36:42 UID 27
+15:07:17 10:36:42 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:17 10:36:42 End TotalColumns.
+
+
+15:07:17 10:36:42 Starting TotalColumns.
+15:07:17 10:36:42 POST Request has been made.
+15:07:17 10:36:42 Starting TotalColumns.
+15:07:17 10:36:42 Column: entry_title
+15:07:17 10:36:42 POST Request has been made.
+15:07:17 10:36:42 Column: entry_author
+15:07:17 10:36:42 Pulling private key.
+15:07:17 10:36:42 Pulling private key.
+15:07:17 10:36:42 Signiture keys match.
+15:07:17 10:36:42 Signiture keys match.
+15:07:17 10:36:42 UID 27
+15:07:17 10:36:42 UID 27
+15:07:17 10:36:42 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:17 10:36:42 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:17 10:36:42 End TotalColumns.
+
+
+15:07:17 10:36:42 End TotalColumns.
+
+
+15:07:17 10:36:42 Starting TotalColumns.
+15:07:17 10:36:42 POST Request has been made.
+15:07:17 10:36:42 Column: entry_author
+15:07:17 10:36:42 Pulling private key.
+15:07:17 10:36:43 Signiture keys match.
+15:07:17 10:36:43 UID 27
+15:07:17 10:36:43 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:17 10:36:43 End TotalColumns.
+
+
+15:07:17 07:01:20 Starting TotalColumns.
+15:07:17 07:01:20 POST Request has been made.
+15:07:17 07:01:20 Column: entry_title
+15:07:17 07:01:20 Pulling private key.
+15:07:17 07:01:20 Signiture keys match.
+15:07:17 07:01:20 UID 27
+15:07:17 07:01:20 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:17 07:01:20 End TotalColumns.
+
+
+15:07:17 07:01:20 Starting TotalColumns.
+15:07:17 07:01:20 POST Request has been made.
+15:07:17 07:01:20 Column: entry_author
+15:07:17 07:01:20 Pulling private key.
+15:07:17 07:01:20 Signiture keys match.
+15:07:17 07:01:20 UID 27
+15:07:17 07:01:20 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:17 07:01:20 End TotalColumns.
+
+
+15:07:18 01:29:18 Starting TotalColumns.
+15:07:18 01:29:18 POST Request has been made.
+15:07:18 01:29:18 Column: entry_title
+15:07:18 01:29:18 Pulling private key.
+15:07:18 01:29:18 Signiture keys match.
+15:07:18 01:29:18 UID 1
+15:07:18 01:29:18 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><records>29</records></entry>
+15:07:18 01:29:18 End TotalColumns.
+
+
+15:07:18 01:29:18 Starting TotalColumns.
+15:07:18 01:29:18 POST Request has been made.
+15:07:18 01:29:18 Column: entry_author
+15:07:18 01:29:18 Pulling private key.
+15:07:18 01:29:18 Signiture keys match.
+15:07:18 01:29:18 UID 1
+15:07:18 01:29:18 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><records>18</records></entry>
+15:07:18 01:29:18 End TotalColumns.
+
+
+15:07:18 07:22:11 Starting TotalColumns.
+15:07:18 07:22:11 POST Request has been made.
+15:07:18 07:22:11 Column: entry_title
+15:07:18 07:22:11 Pulling private key.
+15:07:18 07:22:11 Signiture keys match.
+15:07:18 07:22:11 UID 27
+15:07:18 07:22:11 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:18 07:22:11 End TotalColumns.
+
+
+15:07:18 07:22:11 Starting TotalColumns.
+15:07:18 07:22:11 POST Request has been made.
+15:07:18 07:22:11 Column: entry_author
+15:07:18 07:22:11 Pulling private key.
+15:07:18 07:22:11 Signiture keys match.
+15:07:18 07:22:11 UID 27
+15:07:18 07:22:11 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:18 07:22:11 End TotalColumns.
+
+
+15:07:18 07:24:19 Starting TotalColumns.
+15:07:18 07:24:19 POST Request has been made.
+15:07:18 07:24:19 Column: entry_title
+15:07:18 07:24:19 Pulling private key.
+15:07:18 07:24:19 Signiture keys match.
+15:07:18 07:24:19 UID 27
+15:07:18 07:24:19 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:18 07:24:19 End TotalColumns.
+
+
+15:07:18 07:24:19 Starting TotalColumns.
+15:07:18 07:24:19 POST Request has been made.
+15:07:18 07:24:19 Column: entry_title
+15:07:18 07:24:19 Starting TotalColumns.
+15:07:18 07:24:19 Pulling private key.
+15:07:18 07:24:19 POST Request has been made.
+15:07:18 07:24:19 Column: entry_author
+15:07:18 07:24:19 Signiture keys match.
+15:07:18 07:24:19 Pulling private key.
+15:07:18 07:24:19 UID 27
+15:07:18 07:24:19 Signiture keys match.
+15:07:18 07:24:19 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:18 07:24:19 UID 27
+15:07:18 07:24:19 End TotalColumns.
+
+
+15:07:18 07:24:19 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:18 07:24:19 End TotalColumns.
+
+
+15:07:18 07:24:19 Starting TotalColumns.
+15:07:18 07:24:19 POST Request has been made.
+15:07:18 07:24:19 Column: entry_author
+15:07:18 07:24:19 Pulling private key.
+15:07:18 07:24:19 Signiture keys match.
+15:07:18 07:24:19 UID 27
+15:07:18 07:24:19 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:18 07:24:19 End TotalColumns.
+
+
+15:07:18 10:43:33 Starting TotalColumns.
+15:07:18 10:43:33 POST Request has been made.
+15:07:18 10:43:33 Column: entry_title
+15:07:18 10:43:33 Pulling private key.
+15:07:18 10:43:33 Signiture keys match.
+15:07:18 10:43:33 UID 1
+15:07:18 10:43:33 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><records>29</records></entry>
+15:07:18 10:43:33 End TotalColumns.
+
+
+15:07:18 10:43:33 Starting TotalColumns.
+15:07:18 10:43:33 POST Request has been made.
+15:07:18 10:43:33 Column: entry_author
+15:07:18 10:43:33 Pulling private key.
+15:07:18 10:43:33 Signiture keys match.
+15:07:18 10:43:33 UID 1
+15:07:18 10:43:33 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><records>18</records></entry>
+15:07:18 10:43:33 End TotalColumns.
+
+
+15:07:20 11:02:10 Starting TotalColumns.
+15:07:20 11:02:10 POST Request has been made.
+15:07:20 11:02:10 Column: entry_title
+15:07:20 11:02:10 Pulling private key.
+15:07:20 11:02:10 Signiture keys match.
+15:07:20 11:02:10 UID 27
+15:07:20 11:02:10 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:20 11:02:10 End TotalColumns.
+
+
+15:07:20 11:02:10 Starting TotalColumns.
+15:07:20 11:02:10 POST Request has been made.
+15:07:20 11:02:10 Column: entry_author
+15:07:20 11:02:10 Pulling private key.
+15:07:20 11:02:10 Signiture keys match.
+15:07:20 11:02:10 UID 27
+15:07:20 11:02:10 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:20 11:02:10 End TotalColumns.
+
+
+15:07:20 11:02:47 Starting TotalColumns.
+15:07:20 11:02:47 POST Request has been made.
+15:07:20 11:02:47 Column: entry_title
+15:07:20 11:02:47 Pulling private key.
+15:07:20 11:02:47 Signiture keys match.
+15:07:20 11:02:47 UID 27
+15:07:20 11:02:47 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:20 11:02:47 End TotalColumns.
+
+
+15:07:20 11:02:47 Starting TotalColumns.
+15:07:20 11:02:47 POST Request has been made.
+15:07:20 11:02:47 Column: entry_author
+15:07:20 11:02:47 Pulling private key.
+15:07:20 11:02:47 Signiture keys match.
+15:07:20 11:02:47 UID 27
+15:07:20 11:02:47 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:20 11:02:47 End TotalColumns.
+
+
+15:07:20 11:02:47 Starting TotalColumns.
+15:07:20 11:02:47 POST Request has been made.
+15:07:20 11:02:47 Column: entry_title
+15:07:20 11:02:47 Pulling private key.
+15:07:20 11:02:47 Signiture keys match.
+15:07:20 11:02:47 UID 27
+15:07:20 11:02:47 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:20 11:02:47 End TotalColumns.
+
+
+15:07:20 11:02:47 Starting TotalColumns.
+15:07:20 11:02:47 POST Request has been made.
+15:07:20 11:02:47 Column: entry_author
+15:07:20 11:02:47 Pulling private key.
+15:07:20 11:02:47 Signiture keys match.
+15:07:20 11:02:47 UID 27
+15:07:20 11:02:47 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:20 11:02:47 End TotalColumns.
+
+
+15:07:22 04:02:20 Starting TotalColumns.
+15:07:22 04:02:20 POST Request has been made.
+15:07:22 04:02:20 Column: entry_title
+15:07:22 04:02:20 Pulling private key.
+15:07:22 04:02:20 Signiture keys match.
+15:07:22 04:02:20 UID 27
+15:07:22 04:02:20 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:22 04:02:20 End TotalColumns.
+
+
+15:07:22 04:02:20 Starting TotalColumns.
+15:07:22 04:02:20 POST Request has been made.
+15:07:22 04:02:20 Column: entry_author
+15:07:22 04:02:20 Pulling private key.
+15:07:22 04:02:20 Signiture keys match.
+15:07:22 04:02:20 UID 27
+15:07:22 04:02:20 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:22 04:02:20 End TotalColumns.
+
+
+15:07:22 04:03:08 Starting TotalColumns.
+15:07:22 04:03:08 POST Request has been made.
+15:07:22 04:03:08 Column: entry_title
+15:07:22 04:03:08 Pulling private key.
+15:07:22 04:03:08 Signiture keys match.
+15:07:22 04:03:08 UID 27
+15:07:22 04:03:08 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:22 04:03:08 End TotalColumns.
+
+
+15:07:22 04:03:08 Starting TotalColumns.
+15:07:22 04:03:08 POST Request has been made.
+15:07:22 04:03:08 Column: entry_author
+15:07:22 04:03:08 Pulling private key.
+15:07:22 04:03:08 Signiture keys match.
+15:07:22 04:03:08 UID 27
+15:07:22 04:03:08 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:22 04:03:08 End TotalColumns.
+
+
+15:07:26 01:05:24 Starting TotalColumns.
+15:07:26 01:05:24 POST Request has been made.
+15:07:26 01:05:24 Column: entry_title
+15:07:26 01:05:24 Pulling private key.
+15:07:26 01:05:24 Signiture keys match.
+15:07:26 01:05:24 UID 27
+15:07:26 01:05:24 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>29</records></entry>
+15:07:26 01:05:24 End TotalColumns.
+
+
+15:07:26 01:05:24 Starting TotalColumns.
+15:07:26 01:05:24 POST Request has been made.
+15:07:26 01:05:24 Column: entry_author
+15:07:26 01:05:24 Pulling private key.
+15:07:26 01:05:24 Signiture keys match.
+15:07:26 01:05:24 UID 27
+15:07:26 01:05:24 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><records>18</records></entry>
+15:07:26 01:05:24 End TotalColumns.
+
+
+15:07:30 01:43:14 Starting TotalColumns.
+15:07:30 01:43:14 POST Request has been made.
+15:07:30 01:43:14 Column: entry_title
+15:07:30 01:43:14 Pulling private key.
+15:07:30 01:43:14 Signiture keys match.
+15:07:30 01:43:14 UID 1
+15:07:30 01:43:14 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><records>29</records></entry>
+15:07:30 01:43:14 End TotalColumns.
+
+
+15:07:30 01:43:14 Starting TotalColumns.
+15:07:30 01:43:14 POST Request has been made.
+15:07:30 01:43:14 Column: entry_author
+15:07:30 01:43:15 Pulling private key.
+15:07:30 01:43:15 Signiture keys match.
+15:07:30 01:43:15 UID 1
+15:07:30 01:43:15 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><records>18</records></entry>
+15:07:30 01:43:15 End TotalColumns.
+
+
+15:07:30 02:24:50 Starting TotalColumns.
+15:07:30 02:24:50 POST Request has been made.
+15:07:30 02:24:50 Column: entry_title
+15:07:30 02:24:50 Pulling private key.
+15:07:30 02:24:50 Signiture keys match.
+15:07:30 02:24:50 UID 1
+15:07:30 02:24:50 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><records>29</records></entry>
+15:07:30 02:24:50 End TotalColumns.
+
+
+15:07:30 02:24:50 Starting TotalColumns.
+15:07:30 02:24:50 POST Request has been made.
+15:07:30 02:24:50 Column: entry_author
+15:07:30 02:24:50 Pulling private key.
+15:07:30 02:24:50 Signiture keys match.
+15:07:30 02:24:51 UID 1
+15:07:30 02:24:51 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><records>18</records></entry>
+15:07:30 02:24:51 End TotalColumns.
+
+
+15:07:30 08:03:21 Starting TotalColumns.
+15:07:30 08:03:21 POST Request has been made.
+15:07:30 08:03:21 Column: entry_title
+15:07:30 08:03:21 Pulling private key.
+15:07:30 08:03:21 Signiture keys match.
+15:07:30 08:03:21 UID 1
+15:07:30 08:03:21 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><records>29</records></entry>
+15:07:30 08:03:21 End TotalColumns.
+
+
+15:07:30 08:03:21 Starting TotalColumns.
+15:07:30 08:03:21 POST Request has been made.
+15:07:30 08:03:21 Column: entry_author
+15:07:30 08:03:21 Pulling private key.
+15:07:30 08:03:21 Signiture keys match.
+15:07:30 08:03:21 UID 1
+15:07:30 08:03:21 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><records>18</records></entry>
+15:07:30 08:03:21 End TotalColumns.
+
+
+15:08:01 01:45:53 Starting TotalColumns.
+15:08:01 01:45:53 POST Request has been made.
+15:08:01 01:45:53 Column: entry_title
+15:08:01 01:45:53 Pulling private key.
+15:08:01 01:45:53 Signiture keys match.
+15:08:01 01:45:53 UID 1
+15:08:01 01:45:53 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><records>29</records></entry>
+15:08:01 01:45:53 End TotalColumns.
+
+
+15:08:01 01:45:53 Starting TotalColumns.
+15:08:01 01:45:53 POST Request has been made.
+15:08:01 01:45:53 Column: entry_author
+15:08:01 01:45:53 Pulling private key.
+15:08:01 01:45:53 Signiture keys match.
+15:08:01 01:45:53 UID 1
+15:08:01 01:45:53 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><records>18</records></entry>
+15:08:01 01:45:53 End TotalColumns.
+
+
+15:08:02 04:50:45 Starting TotalColumns.
+15:08:02 04:50:45 POST Request has been made.
+15:08:02 04:50:45 Column: entry_title
+15:08:02 04:50:45 Pulling private key.
+15:08:02 04:50:45 Signiture keys match.
+15:08:02 04:50:45 UID 1
+15:08:02 04:50:45 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><records>29</records></entry>
+15:08:02 04:50:45 End TotalColumns.
+
+
+15:08:02 04:50:45 Starting TotalColumns.
+15:08:02 04:50:45 POST Request has been made.
+15:08:02 04:50:45 Column: entry_author
+15:08:02 04:50:45 Pulling private key.
+15:08:02 04:50:45 Signiture keys match.
+15:08:02 04:50:45 UID 1
+15:08:02 04:50:45 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><records>18</records></entry>
+15:08:02 04:50:45 End TotalColumns.
+

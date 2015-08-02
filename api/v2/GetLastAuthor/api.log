@@ -908,3 +908,383 @@
 15:07:14 12:00:24 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
 15:07:14 12:00:24 End GetLastAuthor.
 
+
+15:07:14 12:03:48 Starting GetLastAuthor.
+15:07:14 12:03:48 POST Request has been made.
+15:07:14 12:03:48 Pulling private key.
+15:07:14 12:03:48 Signiture keys match.
+15:07:14 12:03:48 UID 27
+15:07:14 12:03:48 Mark Cheverton
+15:07:14 12:03:48 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:14 12:03:48 End GetLastAuthor.
+
+
+15:07:14 12:04:05 Starting GetLastAuthor.
+15:07:14 12:04:05 POST Request has been made.
+15:07:14 12:04:05 Pulling private key.
+15:07:14 12:04:05 Signiture keys match.
+15:07:14 12:04:05 UID 27
+15:07:14 12:04:05 Mark Cheverton
+15:07:14 12:04:05 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:14 12:04:05 End GetLastAuthor.
+
+
+15:07:15 01:19:44 Starting GetLastAuthor.
+15:07:15 01:19:44 POST Request has been made.
+15:07:15 01:19:44 Pulling private key.
+15:07:15 01:19:44 Signiture keys match.
+15:07:15 01:19:44 UID 22
+15:07:15 01:19:44 
+15:07:15 01:19:44 <?xml version='1.0' standalone='yes'?><entry reader_id='22'><author></author></entry>
+15:07:15 01:19:44 End GetLastAuthor.
+
+
+15:07:15 01:20:20 Starting GetLastAuthor.
+15:07:15 01:20:20 POST Request has been made.
+15:07:15 01:20:20 Pulling private key.
+15:07:15 01:20:20 Signiture keys match.
+15:07:15 01:20:20 UID 27
+15:07:15 01:20:20 Mark Cheverton
+15:07:15 01:20:20 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:15 01:20:20 End GetLastAuthor.
+
+
+15:07:15 01:20:47 Starting GetLastAuthor.
+15:07:15 01:20:47 POST Request has been made.
+15:07:15 01:20:47 Pulling private key.
+15:07:15 01:20:47 Signiture keys match.
+15:07:15 01:20:47 UID 27
+15:07:15 01:20:47 Mark Cheverton
+15:07:15 01:20:47 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:15 01:20:47 End GetLastAuthor.
+
+
+15:07:16 04:54:17 Starting GetLastAuthor.
+15:07:16 04:54:17 POST Request has been made.
+15:07:16 04:54:17 Pulling private key.
+15:07:16 04:54:17 Signiture keys match.
+15:07:16 04:54:17 UID 22
+15:07:16 04:54:17 
+15:07:16 04:54:17 <?xml version='1.0' standalone='yes'?><entry reader_id='22'><author></author></entry>
+15:07:16 04:54:17 End GetLastAuthor.
+
+
+15:07:16 04:55:57 Starting GetLastAuthor.
+15:07:16 04:55:57 POST Request has been made.
+15:07:16 04:55:57 Pulling private key.
+15:07:16 04:55:57 Signiture keys match.
+15:07:16 04:55:57 UID 1
+15:07:16 04:55:57 Mark Cheverton
+15:07:16 04:55:57 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Mark Cheverton</author></entry>
+15:07:16 04:55:57 End GetLastAuthor.
+
+
+15:07:16 04:57:00 Starting GetLastAuthor.
+15:07:16 04:57:00 POST Request has been made.
+15:07:16 04:57:00 Pulling private key.
+15:07:16 04:57:00 Signiture keys match.
+15:07:16 04:57:00 UID 22
+15:07:16 04:57:00 
+15:07:16 04:57:00 <?xml version='1.0' standalone='yes'?><entry reader_id='22'><author></author></entry>
+15:07:16 04:57:00 End GetLastAuthor.
+
+
+15:07:16 04:57:35 Starting GetLastAuthor.
+15:07:16 04:57:35 POST Request has been made.
+15:07:16 04:57:35 Pulling private key.
+15:07:16 04:57:35 Signiture keys match.
+15:07:16 04:57:35 UID 22
+15:07:16 04:57:35 
+15:07:16 04:57:35 <?xml version='1.0' standalone='yes'?><entry reader_id='22'><author></author></entry>
+15:07:16 04:57:35 End GetLastAuthor.
+
+
+15:07:16 04:58:38 Starting GetLastAuthor.
+15:07:16 04:58:38 POST Request has been made.
+15:07:16 04:58:38 Pulling private key.
+15:07:16 04:58:38 Signiture keys match.
+15:07:16 04:58:38 UID 22
+15:07:16 04:58:38 
+15:07:16 04:58:38 <?xml version='1.0' standalone='yes'?><entry reader_id='22'><author></author></entry>
+15:07:16 04:58:38 End GetLastAuthor.
+
+
+15:07:16 01:48:53 Starting GetLastAuthor.
+15:07:16 01:48:53 POST Request has been made.
+15:07:16 01:48:53 Pulling private key.
+15:07:16 01:48:53 Signiture keys match.
+15:07:16 01:48:53 UID 22
+15:07:16 01:48:53 
+15:07:16 01:48:53 <?xml version='1.0' standalone='yes'?><entry reader_id='22'><author></author></entry>
+15:07:16 01:48:53 End GetLastAuthor.
+
+
+15:07:16 01:49:22 Starting GetLastAuthor.
+15:07:16 01:49:22 POST Request has been made.
+15:07:16 01:49:22 Pulling private key.
+15:07:16 01:49:22 Signiture keys match.
+15:07:16 01:49:22 UID 27
+15:07:16 01:49:22 Mark Cheverton
+15:07:16 01:49:22 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:16 01:49:23 End GetLastAuthor.
+
+
+15:07:17 12:17:02 Starting GetLastAuthor.
+15:07:17 12:17:02 POST Request has been made.
+15:07:17 12:17:02 Pulling private key.
+15:07:17 12:17:02 Signiture keys match.
+15:07:17 12:17:02 UID 22
+15:07:17 12:17:02 
+15:07:17 12:17:02 <?xml version='1.0' standalone='yes'?><entry reader_id='22'><author></author></entry>
+15:07:17 12:17:02 End GetLastAuthor.
+
+
+15:07:17 12:18:37 Starting GetLastAuthor.
+15:07:17 12:18:37 POST Request has been made.
+15:07:17 12:18:37 Pulling private key.
+15:07:17 12:18:37 Signiture keys match.
+15:07:17 12:18:37 UID 27
+15:07:17 12:18:37 Mark Cheverton
+15:07:17 12:18:37 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:17 12:18:37 End GetLastAuthor.
+
+
+15:07:17 12:19:58 Starting GetLastAuthor.
+15:07:17 12:19:58 POST Request has been made.
+15:07:17 12:19:58 Pulling private key.
+15:07:17 12:19:58 Signiture keys match.
+15:07:17 12:19:58 UID 27
+15:07:17 12:19:58 Mark Cheverton
+15:07:17 12:19:58 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:17 12:19:58 End GetLastAuthor.
+
+
+15:07:17 12:20:36 Starting GetLastAuthor.
+15:07:17 12:20:36 POST Request has been made.
+15:07:17 12:20:36 Pulling private key.
+15:07:17 12:20:36 Signiture keys match.
+15:07:17 12:20:36 UID 27
+15:07:17 12:20:36 Mark Cheverton
+15:07:17 12:20:36 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:17 12:20:36 End GetLastAuthor.
+
+
+15:07:17 12:21:08 Starting GetLastAuthor.
+15:07:17 12:21:08 POST Request has been made.
+15:07:17 12:21:08 Pulling private key.
+15:07:17 12:21:08 Signiture keys match.
+15:07:17 12:21:08 UID 27
+15:07:17 12:21:08 Mark Cheverton
+15:07:17 12:21:08 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:17 12:21:08 End GetLastAuthor.
+
+
+15:07:17 10:36:16 Starting GetLastAuthor.
+15:07:17 10:36:16 POST Request has been made.
+15:07:17 10:36:16 Pulling private key.
+15:07:17 10:36:16 Signiture keys match.
+15:07:17 10:36:16 UID 27
+15:07:17 10:36:16 Mark Cheverton
+15:07:17 10:36:16 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:17 10:36:16 End GetLastAuthor.
+
+
+15:07:17 10:36:43 Starting GetLastAuthor.
+15:07:17 10:36:43 POST Request has been made.
+15:07:17 10:36:43 Pulling private key.
+15:07:17 10:36:43 Signiture keys match.
+15:07:17 10:36:43 UID 27
+15:07:17 10:36:43 Mark Cheverton
+15:07:17 10:36:43 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:17 10:36:43 End GetLastAuthor.
+
+
+15:07:17 10:36:43 Starting GetLastAuthor.
+15:07:17 10:36:43 POST Request has been made.
+15:07:17 10:36:43 Pulling private key.
+15:07:17 10:36:43 Signiture keys match.
+15:07:17 10:36:43 UID 27
+15:07:17 10:36:43 Mark Cheverton
+15:07:17 10:36:43 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:17 10:36:43 End GetLastAuthor.
+
+
+15:07:17 07:01:20 Starting GetLastAuthor.
+15:07:17 07:01:20 POST Request has been made.
+15:07:17 07:01:20 Pulling private key.
+15:07:17 07:01:20 Signiture keys match.
+15:07:17 07:01:20 UID 27
+15:07:17 07:01:20 Mark Cheverton
+15:07:17 07:01:20 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:17 07:01:20 End GetLastAuthor.
+
+
+15:07:18 01:26:32 Starting GetLastAuthor.
+15:07:18 01:26:32 POST Request has been made.
+15:07:18 01:26:32 Pulling private key.
+15:07:18 01:26:32 Signiture keys match.
+15:07:18 01:26:32 UID 22
+15:07:18 01:26:32 
+15:07:18 01:26:32 <?xml version='1.0' standalone='yes'?><entry reader_id='22'><author></author></entry>
+15:07:18 01:26:32 End GetLastAuthor.
+
+
+15:07:18 01:29:12 Starting GetLastAuthor.
+15:07:18 01:29:12 POST Request has been made.
+15:07:18 01:29:12 Pulling private key.
+15:07:18 01:29:12 Signiture keys match.
+15:07:18 01:29:12 UID 22
+15:07:18 01:29:12 
+15:07:18 01:29:12 <?xml version='1.0' standalone='yes'?><entry reader_id='22'><author></author></entry>
+15:07:18 01:29:12 End GetLastAuthor.
+
+
+15:07:18 01:29:18 Starting GetLastAuthor.
+15:07:18 01:29:18 POST Request has been made.
+15:07:18 01:29:18 Pulling private key.
+15:07:18 01:29:18 Signiture keys match.
+15:07:18 01:29:18 UID 1
+15:07:18 01:29:18 Mark Cheverton
+15:07:18 01:29:18 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Mark Cheverton</author></entry>
+15:07:18 01:29:18 End GetLastAuthor.
+
+
+15:07:18 07:22:11 Starting GetLastAuthor.
+15:07:18 07:22:11 POST Request has been made.
+15:07:18 07:22:11 Pulling private key.
+15:07:18 07:22:11 Signiture keys match.
+15:07:18 07:22:11 UID 27
+15:07:18 07:22:11 Mark Cheverton
+15:07:18 07:22:11 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:18 07:22:11 End GetLastAuthor.
+
+
+15:07:18 07:24:19 Starting GetLastAuthor.
+15:07:18 07:24:19 POST Request has been made.
+15:07:18 07:24:19 Pulling private key.
+15:07:18 07:24:19 Signiture keys match.
+15:07:18 07:24:19 UID 27
+15:07:18 07:24:19 Mary Pope Osborne
+15:07:18 07:24:19 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mary Pope Osborne</author></entry>
+15:07:18 07:24:19 End GetLastAuthor.
+
+
+15:07:18 07:24:19 Starting GetLastAuthor.
+15:07:18 07:24:19 POST Request has been made.
+15:07:18 07:24:19 Pulling private key.
+15:07:18 07:24:19 Signiture keys match.
+15:07:18 07:24:19 UID 27
+15:07:18 07:24:19 Mary Pope Osborne
+15:07:18 07:24:19 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mary Pope Osborne</author></entry>
+15:07:18 07:24:19 End GetLastAuthor.
+
+
+15:07:18 10:43:33 Starting GetLastAuthor.
+15:07:18 10:43:33 POST Request has been made.
+15:07:18 10:43:33 Pulling private key.
+15:07:18 10:43:33 Signiture keys match.
+15:07:18 10:43:33 UID 1
+15:07:18 10:43:33 Mark Cheverton
+15:07:18 10:43:33 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Mark Cheverton</author></entry>
+15:07:18 10:43:33 End GetLastAuthor.
+
+
+15:07:20 11:02:10 Starting GetLastAuthor.
+15:07:20 11:02:10 POST Request has been made.
+15:07:20 11:02:10 Pulling private key.
+15:07:20 11:02:10 Signiture keys match.
+15:07:20 11:02:10 UID 27
+15:07:20 11:02:10 Mary Pope Osborne
+15:07:20 11:02:10 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mary Pope Osborne</author></entry>
+15:07:20 11:02:10 End GetLastAuthor.
+
+
+15:07:20 11:02:48 Starting GetLastAuthor.
+15:07:20 11:02:48 POST Request has been made.
+15:07:20 11:02:48 Pulling private key.
+15:07:20 11:02:48 Signiture keys match.
+15:07:20 11:02:48 UID 27
+15:07:20 11:02:48 Mark Cheverton
+15:07:20 11:02:48 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:20 11:02:48 End GetLastAuthor.
+
+
+15:07:22 04:02:20 Starting GetLastAuthor.
+15:07:22 04:02:20 POST Request has been made.
+15:07:22 04:02:20 Pulling private key.
+15:07:22 04:02:20 Signiture keys match.
+15:07:22 04:02:20 UID 27
+15:07:22 04:02:20 Mark Cheverton
+15:07:22 04:02:20 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:22 04:02:20 End GetLastAuthor.
+
+
+15:07:22 04:03:08 Starting GetLastAuthor.
+15:07:22 04:03:08 POST Request has been made.
+15:07:22 04:03:08 Pulling private key.
+15:07:22 04:03:09 Signiture keys match.
+15:07:22 04:03:09 UID 27
+15:07:22 04:03:09 Mark Cheverton
+15:07:22 04:03:09 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:22 04:03:09 End GetLastAuthor.
+
+
+15:07:26 01:05:24 Starting GetLastAuthor.
+15:07:26 01:05:24 POST Request has been made.
+15:07:26 01:05:24 Pulling private key.
+15:07:26 01:05:24 Signiture keys match.
+15:07:26 01:05:24 UID 27
+15:07:26 01:05:24 Mark Cheverton
+15:07:26 01:05:24 <?xml version='1.0' standalone='yes'?><entry reader_id='27'><author>Mark Cheverton</author></entry>
+15:07:26 01:05:24 End GetLastAuthor.
+
+
+15:07:30 01:43:15 Starting GetLastAuthor.
+15:07:30 01:43:15 POST Request has been made.
+15:07:30 01:43:15 Pulling private key.
+15:07:30 01:43:15 Signiture keys match.
+15:07:30 01:43:15 UID 1
+15:07:30 01:43:15 Mark Cheverton
+15:07:30 01:43:15 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Mark Cheverton</author></entry>
+15:07:30 01:43:15 End GetLastAuthor.
+
+
+15:07:30 02:24:51 Starting GetLastAuthor.
+15:07:30 02:24:51 POST Request has been made.
+15:07:30 02:24:51 Pulling private key.
+15:07:30 02:24:51 Signiture keys match.
+15:07:30 02:24:51 UID 1
+15:07:30 02:24:51 Mark Cheverton
+15:07:30 02:24:51 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Mark Cheverton</author></entry>
+15:07:30 02:24:51 End GetLastAuthor.
+
+
+15:07:30 08:03:21 Starting GetLastAuthor.
+15:07:30 08:03:21 POST Request has been made.
+15:07:30 08:03:21 Pulling private key.
+15:07:30 08:03:21 Signiture keys match.
+15:07:30 08:03:21 UID 1
+15:07:30 08:03:21 Mark Cheverton
+15:07:30 08:03:21 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Mark Cheverton</author></entry>
+15:07:30 08:03:21 End GetLastAuthor.
+
+
+15:08:01 01:45:53 Starting GetLastAuthor.
+15:08:01 01:45:53 POST Request has been made.
+15:08:01 01:45:53 Pulling private key.
+15:08:01 01:45:53 Signiture keys match.
+15:08:01 01:45:53 UID 1
+15:08:01 01:45:53 Mark Cheverton
+15:08:01 01:45:53 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Mark Cheverton</author></entry>
+15:08:01 01:45:53 End GetLastAuthor.
+
+
+15:08:02 04:50:45 Starting GetLastAuthor.
+15:08:02 04:50:45 POST Request has been made.
+15:08:02 04:50:45 Pulling private key.
+15:08:02 04:50:45 Signiture keys match.
+15:08:02 04:50:45 UID 1
+15:08:02 04:50:45 Mark Cheverton
+15:08:02 04:50:45 <?xml version='1.0' standalone='yes'?><entry reader_id='1'><author>Mark Cheverton</author></entry>
+15:08:02 04:50:45 End GetLastAuthor.
+

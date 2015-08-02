@@ -3,7 +3,7 @@
 include './settings.php';
 $logname=$_COOKIE['logname'];
 if ($logname == "") {
-	$logname="My Reading Log";
+	$logname="Student Reading Log";
 }
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
