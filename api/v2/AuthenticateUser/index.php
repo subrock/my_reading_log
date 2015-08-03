@@ -1,6 +1,7 @@
 <?
 
 // AuthenticateUser - Takes an api call and returns xml of success or failsure. If success a session ID is given and must be passed durrning the session. 
+date_default_timezone_set('America/Los_Angeles');
 
 // Initiate logging.
 function writeToLog($message) {
